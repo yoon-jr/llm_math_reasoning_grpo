@@ -1,0 +1,157 @@
+Dataset: text_only
+Algorithm: textgrad
+------------------------------------------------------------
+Dataset: text_only
+Algorithm: textgrad
+------------------------------------------------------------
+Dataset: text_only
+Algorithm: textgrad
+------------------------------------------------------------
+Dataset: text_only
+Algorithm: trainingfreegrpo
+------------------------------------------------------------
+P1 Round 0 평가 완료
+  CSV: outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv
+  Total: 100
+  Correct: 61
+  Missing model_output: 29
+  Accuracy: 0.610000
+  Answered Accuracy: 0.859155
+
+P1 Round 1 평가 완료
+  CSV: outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv
+  Total: 100
+  Correct: 64
+  Missing model_output: 25
+  Accuracy: 0.640000
+  Answered Accuracy: 0.853333
+
+P1 Round 2 평가 완료
+  CSV: outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv
+  Total: 100
+  Correct: 66
+  Missing model_output: 25
+  Accuracy: 0.660000
+  Answered Accuracy: 0.880000
+
+P2 Round 0 평가 완료
+  CSV: outputs/text_only/p2/trainingfreegrpo/output_gpt_multichoice_round_0.csv
+  Total: 100
+  Correct: 59
+  Missing model_output: 35
+  Accuracy: 0.590000
+  Answered Accuracy: 0.907692
+
+P2 Round 1 평가 완료
+  CSV: outputs/text_only/p2/trainingfreegrpo/output_gpt_multichoice_round_1.csv
+  Total: 100
+  Correct: 57
+  Missing model_output: 36
+  Accuracy: 0.570000
+  Answered Accuracy: 0.890625
+
+P2 Round 2 평가 완료
+  CSV: outputs/text_only/p2/trainingfreegrpo/output_gpt_multichoice_round_2.csv
+  Total: 100
+  Correct: 68
+  Missing model_output: 23
+  Accuracy: 0.680000
+  Answered Accuracy: 0.883117
+
+P3 Round 0 평가 완료
+  CSV: outputs/text_only/p3/trainingfreegrpo/output_gpt_multichoice_round_0.csv
+  Total: 100
+  Correct: 59
+  Missing model_output: 29
+  Accuracy: 0.590000
+  Answered Accuracy: 0.830986
+
+P3 Round 1 평가 완료
+  CSV: outputs/text_only/p3/trainingfreegrpo/output_gpt_multichoice_round_1.csv
+  Total: 100
+  Correct: 66
+  Missing model_output: 25
+  Accuracy: 0.660000
+  Answered Accuracy: 0.880000
+
+P3 Round 2 평가 완료
+  CSV: outputs/text_only/p3/trainingfreegrpo/output_gpt_multichoice_round_2.csv
+  Total: 100
+  Correct: 66
+  Missing model_output: 27
+  Accuracy: 0.660000
+  Answered Accuracy: 0.904110
+
+P4 Round 0 평가 완료
+  CSV: outputs/text_only/p4/trainingfreegrpo/output_gpt_multichoice_round_0.csv
+  Total: 100
+  Correct: 55
+  Missing model_output: 35
+  Accuracy: 0.550000
+  Answered Accuracy: 0.846154
+
+P4 Round 1 평가 완료
+  CSV: outputs/text_only/p4/trainingfreegrpo/output_gpt_multichoice_round_1.csv
+  Total: 100
+  Correct: 62
+  Missing model_output: 29
+  Accuracy: 0.620000
+  Answered Accuracy: 0.873239
+
+P4 Round 2 평가 완료
+  CSV: outputs/text_only/p4/trainingfreegrpo/output_gpt_multichoice_round_2.csv
+  Total: 100
+  Correct: 66
+  Missing model_output: 27
+  Accuracy: 0.660000
+  Answered Accuracy: 0.904110
+
+P5 Round 0 평가 완료
+  CSV: outputs/text_only/p5/trainingfreegrpo/output_gpt_multichoice_round_0.csv
+  Total: 100
+  Correct: 57
+  Missing model_output: 38
+  Accuracy: 0.570000
+  Answered Accuracy: 0.919355
+
+P5 Round 1 평가 완료
+  CSV: outputs/text_only/p5/trainingfreegrpo/output_gpt_multichoice_round_1.csv
+  Total: 100
+  Correct: 59
+  Missing model_output: 32
+  Accuracy: 0.590000
+  Answered Accuracy: 0.867647
+
+P5 Round 2 평가 완료
+  CSV: outputs/text_only/p5/trainingfreegrpo/output_gpt_multichoice_round_2.csv
+  Total: 100
+  Correct: 61
+  Missing model_output: 32
+  Accuracy: 0.610000
+  Answered Accuracy: 0.897059
+
+------------------------------------------------------------
+성능 평가 완료
+요약 CSV 저장 위치: evaluation_results/text_only/accuracy_by_prompt_all_rounds.csv
+그래프 저장 위치: evaluation_results/text_only/accuracy_by_prompt_all_rounds.png
+
+   Prompt  Round  Total  ...  Missing model_output  Accuracy  Answered Accuracy
+0      P1      0    100  ...                    29      0.61           0.859155
+1      P1      1    100  ...                    25      0.64           0.853333
+2      P1      2    100  ...                    25      0.66           0.880000
+3      P2      0    100  ...                    35      0.59           0.907692
+4      P2      1    100  ...                    36      0.57           0.890625
+5      P2      2    100  ...                    23      0.68           0.883117
+6      P3      0    100  ...                    29      0.59           0.830986
+7      P3      1    100  ...                    25      0.66           0.880000
+8      P3      2    100  ...                    27      0.66           0.904110
+9      P4      0    100  ...                    35      0.55           0.846154
+10     P4      1    100  ...                    29      0.62           0.873239
+11     P4      2    100  ...                    27      0.66           0.904110
+12     P5      0    100  ...                    38      0.57           0.919355
+13     P5      1    100  ...                    32      0.59           0.867647
+14     P5      2    100  ...                    32      0.61           0.897059
+
+[15 rows x 7 columns]
+Answered Accuracy 그래프 저장 완료
+저장 위치: evaluation_results/text_only/answered_accuracy_by_prompt_all_rounds.png

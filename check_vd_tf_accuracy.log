@@ -1,0 +1,43 @@
+Dataset: vision_dominant
+Algorithm: trainingfreegrpo
+------------------------------------------------------------
+Dataset: vision_dominant
+Algorithm: trainingfreegrpo
+------------------------------------------------------------
+P1 Round 0 평가 완료
+  CSV: outputs/vision_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv
+  Total: 100
+  Correct: 73
+  Missing model_output: 22
+  Accuracy: 0.730000
+  Answered Accuracy: 0.935897
+
+P1 Round 1 평가 완료
+  CSV: outputs/vision_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv
+  Total: 100
+  Correct: 73
+  Missing model_output: 20
+  Accuracy: 0.730000
+  Answered Accuracy: 0.912500
+
+P1 Round 2 평가 완료
+  CSV: outputs/vision_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv
+  Total: 100
+  Correct: 76
+  Missing model_output: 19
+  Accuracy: 0.760000
+  Answered Accuracy: 0.938272
+
+------------------------------------------------------------
+성능 평가 완료
+요약 CSV 저장 위치: evaluation_results/vision_dominant/accuracy_by_prompt_all_rounds.csv
+그래프 저장 위치: evaluation_results/vision_dominant/accuracy_by_prompt_all_rounds.png
+
+  Prompt  Round  Total  ...  Missing model_output  Accuracy  Answered Accuracy
+0     P1      0    100  ...                    22      0.73           0.935897
+1     P1      1    100  ...                    20      0.73           0.912500
+2     P1      2    100  ...                    19      0.76           0.938272
+
+[3 rows x 7 columns]
+Answered Accuracy 그래프 저장 완료
+저장 위치: evaluation_results/vision_dominant/answered_accuracy_by_prompt_all_rounds.png

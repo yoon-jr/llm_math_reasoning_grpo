@@ -1,0 +1,291 @@
+검사한 CSV 파일:
+- outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv
+  model_output 누락: 24개
+- outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv
+  model_output 누락: 15개
+- outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv
+  model_output 누락: 14개
+- outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv
+  model_output 누락: 29개
+- outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv
+  model_output 누락: 25개
+- outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv
+  model_output 누락: 25개
+- outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv
+  model_output 누락: 27개
+- outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv
+  model_output 누락: 19개
+- outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv
+  model_output 누락: 21개
+- outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv
+  model_output 누락: 22개
+- outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv
+  model_output 누락: 20개
+- outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv
+  model_output 누락: 19개
+------------------------------------------------------------
+전체 model_output 누락 개수: 260개
+누락 문제 목록 저장 완료: missing_model_output_report.csv
+
+누락된 문제 요약:
+                                                                    source_csv  round  idx_in_dataset  problem_index  sample_index reference_answer
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0               3             16            77                A
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0               8             36           177                A
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              10             41           202                D
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              15             54           267                A
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              17             65           322                D
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              21             85           422                D
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              23            102           507                C
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              24            105           522                B
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              25            111           552                C
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              26            114           567                C
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              30            121           602                C
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              33            131           652                D
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              38            149           742                A
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              43            180           897                B
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              44            182           907                D
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              45            184           917                D
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              49            194           967                D
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              56            238          1187                B
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              66            298          1487                A
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              70            319          1592                A
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              90            752          3757                A
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              95            769          3842                B
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              97            779          3892                C
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              99            785          3922                B
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              10             41           202                D
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              17             65           322                D
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              21             85           422                D
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              23            102           507                C
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              24            105           522                B
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              26            114           567                C
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              33            131           652                D
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              43            180           897                B
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              44            182           907                D
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              47            191           952                D
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              49            194           967                D
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              51            201          1002                B
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              56            238          1187                B
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              66            298          1487                A
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              95            769          3842                B
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              10             41           202                D
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              17             65           322                D
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              23            102           507                C
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              24            105           522                B
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              25            111           552                C
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              26            114           567                C
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              30            121           602                C
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              33            131           652                D
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              34            141           702                A
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              43            180           897                B
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              44            182           907                D
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              56            238          1187                B
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              66            298          1487                A
+      outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              95            769          3842                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0               4             17            17                C
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0               9             37            37                A
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              10             41            41                D
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              13             51            51                C
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              15             54            54                A
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              16             59            59                A
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              17             65            65                D
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              21             85            85                D
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              23            102           102                C
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              24            105           105                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              26            114           114                C
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              30            121           121                C
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              33            131           131                D
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              43            180           180                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              49            194           194                D
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              50            197           197                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              51            201           201                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              55            224           224                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              56            238           238                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              64            292           292                D
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              66            298           298                A
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              68            312           312                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              79            548           548                A
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              92            761           761                C
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              93            763           763                D
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              95            769           769                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              96            774           774                A
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              97            779           779                C
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              98            783           783                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1               1             13            13                C
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              15             54            54                A
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              16             59            59                A
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              21             85            85                D
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              23            102           102                C
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              24            105           105                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              26            114           114                C
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              30            121           121                C
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              33            131           131                D
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              43            180           180                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              49            194           194                D
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              50            197           197                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              52            202           202                D
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              55            224           224                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              56            238           238                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              64            292           292                D
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              66            298           298                A
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              68            312           312                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              79            548           548                A
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              92            761           761                C
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              93            763           763                D
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              95            769           769                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              97            779           779                C
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              98            783           783                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              99            785           785                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              10             41            41                D
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              15             54            54                A
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              16             59            59                A
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              21             85            85                D
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              23            102           102                C
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              24            105           105                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              26            114           114                C
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              33            131           131                D
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              43            180           180                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              45            184           184                D
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              49            194           194                D
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              50            197           197                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              51            201           201                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              52            202           202                D
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              54            222           222                C
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              55            224           224                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              56            238           238                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              61            283           283                C
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              64            292           292                D
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              66            298           298                A
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              68            312           312                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              92            761           761                C
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              95            769           769                B
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              97            779           779                C
+      outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              98            783           783                B
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0               1             13            65                C
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0               3             16            80                A
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0               8             36           180                A
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0               9             37           185                A
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              10             41           205                D
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              14             53           265                A
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              15             54           270                A
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              17             65           325                D
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              21             85           425                D
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              23            102           510                C
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              24            105           525                B
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              26            114           570                C
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              30            121           605                C
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              31            122           610                D
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              33            131           655                D
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              38            149           745                A
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              43            180           900                B
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              44            182           910                D
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              48            193           965                C
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              49            194           970                D
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              50            197           985                B
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              51            201          1005                B
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              66            298          1490                A
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              69            313          1565                B
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              97            779          3895                C
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              98            783          3915                B
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              99            785          3925                B
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1               1             13            65                C
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1               8             36           180                A
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              10             41           205                D
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              13             51           255                C
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              21             85           425                D
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              23            102           510                C
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              24            105           525                B
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              25            111           555                C
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              26            114           570                C
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              30            121           605                C
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              33            131           655                D
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              43            180           900                B
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              44            182           910                D
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              46            189           945                B
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              48            193           965                C
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              49            194           970                D
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              95            769          3845                B
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              98            783          3915                B
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              99            785          3925                B
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2               1             13            65                C
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2               8             36           180                A
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              10             41           205                D
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              21             85           425                D
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              23            102           510                C
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              24            105           525                B
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              26            114           570                C
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              30            121           605                C
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              33            131           655                D
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              38            149           745                A
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              43            180           900                B
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              44            182           910                D
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              45            184           920                D
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              47            191           955                D
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              48            193           965                C
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              49            194           970                D
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              51            201          1005                B
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              76            507          2535                B
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              95            769          3845                B
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              98            783          3915                B
+    outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              99            785          3925                B
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0               8             36           179                A
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              10             41           204                D
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              15             54           269                A
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              17             65           324                D
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              21             85           424                D
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              23            102           509                C
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              24            105           524                B
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              26            114           569                C
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              30            121           604                C
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              33            131           654                D
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              34            141           704                A
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              38            149           744                A
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              43            180           899                B
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              44            182           909                D
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              45            184           919                D
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              47            191           954                D
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              48            193           964                C
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              49            194           969                D
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              51            201          1004                B
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              95            769          3844                B
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              97            779          3894                C
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv      0              99            785          3924                B
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              10             41           204                D
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              15             54           269                A
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              17             65           324                D
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              21             85           424                D
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              23            102           509                C
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              24            105           524                B
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              25            111           554                C
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              26            114           569                C
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              30            121           604                C
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              33            131           654                D
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              34            141           704                A
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              38            149           744                A
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              43            180           899                B
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              47            191           954                D
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              49            194           969                D
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              51            201          1004                B
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              70            319          1594                A
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              90            752          3759                A
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              95            769          3844                B
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv      1              99            785          3924                B
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              10             41           204                D
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              15             54           269                A
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              17             65           324                D
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              21             85           424                D
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              22             89           444                D
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              23            102           509                C
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              24            105           524                B
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              26            114           569                C
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              30            121           604                C
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              33            131           654                D
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              34            141           704                A
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              38            149           744                A
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              43            180           899                B
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              47            191           954                D
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              48            193           964                C
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              51            201          1004                B
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              57            242          1209                C
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              95            769          3844                B
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv      2              99            785          3924                B

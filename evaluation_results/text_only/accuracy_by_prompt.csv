@@ -1,0 +1,4 @@
+﻿Prompt,Round,Total,Correct,Wrong,Missing model_output,Accuracy,Answered Accuracy,CSV Path
+P1,2,100,66,34,25,0.66,0.88,outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv
+P2,2,100,68,32,23,0.68,0.8831168831168831,outputs/text_only/p2/trainingfreegrpo/output_gpt_multichoice_round_2.csv
+P3,2,100,66,34,27,0.66,0.9041095890410958,outputs/text_only/p3/trainingfreegrpo/output_gpt_multichoice_round_2.csv

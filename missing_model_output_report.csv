@@ -1,0 +1,1251 @@
+﻿source_csv,round,idx_in_dataset,problem_index,sample_index,question_used,predicted_final_answer,reference_answer,is_correct,format_valid,model_output
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,3,16,77,"As shown in the figure, chord AC parallel radius OB, angle BOC = 50.0, then the degree of angle OAB is ()
+Choices:
+A:25°
+B:50°
+C:60°
+D:30°",,A,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,8,36,177,"As shown in the figure, passing point C to draw the tangent of circle O. If angle D = 50.0, then the degree of angle A is ()
+Choices:
+A:20°
+B:25°
+C:.40°
+D:50°",,A,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,10,41,202,"If angle 1 = 100.0, angle 2 = 100.0, angle 3 = 125.0, then angle 4 is equal to ()
+Choices:
+A:80°
+B:65°
+C:60°
+D:55°",,D,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,15,54,267,"Place a ruler and a triangular plate as shown in the figure, angle 1 = 40.0, then the degree of angle 2 is ()
+Choices:
+A:130°
+B:140°
+C:120°
+D:125°",,A,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,17,65,322,"As shown in the figure, angle 1 = angle 2, angle 4 = 30.0, then angle 3 is equal to ()
+Choices:
+A:120°
+B:130°
+C:145°
+D:150°",,D,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,21,85,422,"As shown in the figure, the circle O is the circumscribed circle of triangle ABC and the bisector of angle BAC and angle ABC intersects at point I. If the radius of circle O is 8.0, angle BAC = 120.0, then the length of DI is ()
+Choices:
+A:4√{3}+2
+B:4√{3}+3
+C:8√{3}+1
+D:8√{3}",,D,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,23,102,507,"As shown in the figure, and point C is the midpoint of arc BD, passing point C to draw the perpendicular line EF of AD, if the radius of circle O is 2.5, the length of AC is 4.0, then the length of CE is ()
+Choices:
+A:3
+B:\frac{20}{3}
+C:\frac{12}{5}
+D:\frac{16}{5}",,C,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,24,105,522,"As shown in the figure, Given that AB = 2 DE, angle E = 16.0, then the degree of angle ABC is ()
+Choices:
+A:32°
+B:24°
+C:16°
+D:48°",,B,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,25,111,552,"angle CAB = 90.0, angle ABC = 72.0, AD is the angle bisector of angle CAB, and crossing point C is the high line CE on the AD side in triangle ACD, then the degree of angle ECD is ()
+Choices:
+A:63°
+B:45°
+C:27°
+D:18°",,C,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,26,114,567,"As shown in the figure, in the sector OAB with a radius of 1.0 and a central angle of 90.0, and the area of the shaded part in the figure is ()
+Choices:
+A:πcm²
+B:\frac{2}{3}πcm²
+C:\frac{1}{2}cm²
+D:\frac{2}{3}cm²",,C,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,30,121,602,"the handle AP always bisects the angle angle BAC formed by the two ribs in the same plane, and AE = AF, DE = DF, If AB = 50.0, AD = 14.0, then the area of ​​oil paper required to make such a paper umbrella is (don't remember the seam) ()
+Choices:
+A:48cm^{2}
+B:70πcm^{2}
+C:2400πcm^{2}
+D:2500πcm^{2}",,C,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,33,131,652,"As shown in the figure, angle C = 90.0. The circle with CD as the diameter intersects AD at point P. If AC = 6.0. The minimum length of the line segment BP is 2.0. Then the length of AB is ()
+Choices:
+A:8
+B:2√{10}
+C:4√{3}
+D:2√{13}",,D,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,38,149,742,"As shown in the figure, AC perpendicular  CD, BD perpendicular  CD, and AC = 3.0, BD = 6.0, CD = 10.0, then the length of the line segment ED is ()
+Choices:
+A:\frac{20}{3}
+B:\frac{10}{3}
+C:7
+D:\frac{14}{3}",,A,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,43,180,897,"As shown in the figure, OC perpendicular  OB, OD perpendicular  AB intersects AC at point E. Knowing that the radius of circle O is 1.0, then the value of AE^ 2 + CE^ 2 is ()
+Choices:
+A:1
+B:2
+C:3
+D:4",,B,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,44,182,907,"As shown in the figure, angle XOY = 45.0, where AB = 10.0, then the maximum value of the distance from point O to vertex A is ()
+Choices:
+A:8
+B:10
+C:8√{2}
+D:10√{2}",,D,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,45,184,917,"As shown in the figure, in the circle O with a radius of 2.0, given that angle DAC = 30.0, the length of the line segment CD is ()
+Choices:
+A:1
+B:√{3}
+C:2
+D:2√{3}",,D,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,49,194,967,"Angle CAB = 60.0, if AD = 6.0, then the outer diameter of the round nut is ()
+Choices:
+A:12cm
+B:24cm
+C:6√{3}cm
+D:12√{3}cm",,D,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,56,238,1187,"In the triangle, two acute angles are 45 and 30 degrees. One of a right-angle side is bisected by a line from the top vertex. Find x.
+Choices:
+A:4
+B:4 \sqrt { 2 }
+C:4 \sqrt { 3 }
+D:8",,B,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,66,298,1487,"Circle J has a radius of 10 units, \odot K has a radius of 8 units, and B C = 5.4 units. Find J K.
+Choices:
+A:12.6
+B:14.6
+C:20.6
+D:30.6",,A,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,70,319,1592,"Find the area of the green figure.
+Choices:
+A:9
+B:18
+C:72
+D:144",,A,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,90,752,3757,"The figure above shows a triangular prism with height $\sqrt{3} x$. If the volume of the prism is $\frac{81}{4}$, what is the value of $x$ ?
+Choices:
+A:3
+B:4
+C:5
+D:6",,A,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,95,769,3842,"What fraction of the area of the rectangle is shaded?
+Choices:
+A.3/8
+B.1/4
+C.1/8
+D.1/10
+E.1/16",,B,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,97,779,3892,"In the figure above, if r = 90, s = 50, t = 60, u = 45, and w = 50, what is the value of x?
+Choices:
+A.45
+B.50
+C.65
+D.75
+E.It cannot be determined from the information given",,C,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,99,785,3922,"In the figure above, a shaded polygon which has equal sides and equal angles is partially covered with a sheet of blank paper. If x + y = 80, how many sides does the polygon have?
+Choices:
+A.Ten
+B.Nine
+C.Eight
+D.Seven
+E.Six",,B,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,10,41,202,"If angle 1 = 100.0, angle 2 = 100.0, angle 3 = 125.0, then angle 4 is equal to ()
+Choices:
+A:80°
+B:65°
+C:60°
+D:55°",,D,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,17,65,322,"As shown in the figure, angle 1 = angle 2, angle 4 = 30.0, then angle 3 is equal to ()
+Choices:
+A:120°
+B:130°
+C:145°
+D:150°",,D,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,21,85,422,"As shown in the figure, the circle O is the circumscribed circle of triangle ABC and the bisector of angle BAC and angle ABC intersects at point I. If the radius of circle O is 8.0, angle BAC = 120.0, then the length of DI is ()
+Choices:
+A:4√{3}+2
+B:4√{3}+3
+C:8√{3}+1
+D:8√{3}",,D,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,23,102,507,"As shown in the figure, and point C is the midpoint of arc BD, passing point C to draw the perpendicular line EF of AD, if the radius of circle O is 2.5, the length of AC is 4.0, then the length of CE is ()
+Choices:
+A:3
+B:\frac{20}{3}
+C:\frac{12}{5}
+D:\frac{16}{5}",,C,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,24,105,522,"As shown in the figure, Given that AB = 2 DE, angle E = 16.0, then the degree of angle ABC is ()
+Choices:
+A:32°
+B:24°
+C:16°
+D:48°",,B,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,26,114,567,"As shown in the figure, in the sector OAB with a radius of 1.0 and a central angle of 90.0, and the area of the shaded part in the figure is ()
+Choices:
+A:πcm²
+B:\frac{2}{3}πcm²
+C:\frac{1}{2}cm²
+D:\frac{2}{3}cm²",,C,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,33,131,652,"As shown in the figure, angle C = 90.0. The circle with CD as the diameter intersects AD at point P. If AC = 6.0. The minimum length of the line segment BP is 2.0. Then the length of AB is ()
+Choices:
+A:8
+B:2√{10}
+C:4√{3}
+D:2√{13}",,D,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,43,180,897,"As shown in the figure, OC perpendicular  OB, OD perpendicular  AB intersects AC at point E. Knowing that the radius of circle O is 1.0, then the value of AE^ 2 + CE^ 2 is ()
+Choices:
+A:1
+B:2
+C:3
+D:4",,B,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,44,182,907,"As shown in the figure, angle XOY = 45.0, where AB = 10.0, then the maximum value of the distance from point O to vertex A is ()
+Choices:
+A:8
+B:10
+C:8√{2}
+D:10√{2}",,D,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,47,191,952,"As shown in the figure, and the tangent line of circle O passing through point A intersects the extended line of OC at point P, angle B = 30.0, OP = 3.0, then the length of AP is ()
+Choices:
+A:3
+B:\frac{3}{2}
+C:\frac{2}{3}√{3}
+D:\frac{3}{2}√{3}",,D,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,49,194,967,"Angle CAB = 60.0, if AD = 6.0, then the outer diameter of the round nut is ()
+Choices:
+A:12cm
+B:24cm
+C:6√{3}cm
+D:12√{3}cm",,D,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,51,201,1002,"The distences between M and the two chords are equal. Find m \angle C A M.
+Choices:
+A:14
+B:28
+C:36
+D:90",,B,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,56,238,1187,"In the triangle, two acute angles are 45 and 30 degrees. One of a right-angle side is bisected by a line from the top vertex. Find x.
+Choices:
+A:4
+B:4 \sqrt { 2 }
+C:4 \sqrt { 3 }
+D:8",,B,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,66,298,1487,"Circle J has a radius of 10 units, \odot K has a radius of 8 units, and B C = 5.4 units. Find J K.
+Choices:
+A:12.6
+B:14.6
+C:20.6
+D:30.6",,A,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,95,769,3842,"What fraction of the area of the rectangle is shaded?
+Choices:
+A.3/8
+B.1/4
+C.1/8
+D.1/10
+E.1/16",,B,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,10,41,202,"If angle 1 = 100.0, angle 2 = 100.0, angle 3 = 125.0, then angle 4 is equal to ()
+Choices:
+A:80°
+B:65°
+C:60°
+D:55°",,D,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,17,65,322,"As shown in the figure, angle 1 = angle 2, angle 4 = 30.0, then angle 3 is equal to ()
+Choices:
+A:120°
+B:130°
+C:145°
+D:150°",,D,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,23,102,507,"As shown in the figure, and point C is the midpoint of arc BD, passing point C to draw the perpendicular line EF of AD, if the radius of circle O is 2.5, the length of AC is 4.0, then the length of CE is ()
+Choices:
+A:3
+B:\frac{20}{3}
+C:\frac{12}{5}
+D:\frac{16}{5}",,C,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,24,105,522,"As shown in the figure, Given that AB = 2 DE, angle E = 16.0, then the degree of angle ABC is ()
+Choices:
+A:32°
+B:24°
+C:16°
+D:48°",,B,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,25,111,552,"angle CAB = 90.0, angle ABC = 72.0, AD is the angle bisector of angle CAB, and crossing point C is the high line CE on the AD side in triangle ACD, then the degree of angle ECD is ()
+Choices:
+A:63°
+B:45°
+C:27°
+D:18°",,C,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,26,114,567,"As shown in the figure, in the sector OAB with a radius of 1.0 and a central angle of 90.0, and the area of the shaded part in the figure is ()
+Choices:
+A:πcm²
+B:\frac{2}{3}πcm²
+C:\frac{1}{2}cm²
+D:\frac{2}{3}cm²",,C,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,30,121,602,"the handle AP always bisects the angle angle BAC formed by the two ribs in the same plane, and AE = AF, DE = DF, If AB = 50.0, AD = 14.0, then the area of ​​oil paper required to make such a paper umbrella is (don't remember the seam) ()
+Choices:
+A:48cm^{2}
+B:70πcm^{2}
+C:2400πcm^{2}
+D:2500πcm^{2}",,C,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,33,131,652,"As shown in the figure, angle C = 90.0. The circle with CD as the diameter intersects AD at point P. If AC = 6.0. The minimum length of the line segment BP is 2.0. Then the length of AB is ()
+Choices:
+A:8
+B:2√{10}
+C:4√{3}
+D:2√{13}",,D,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,34,141,702,"Xiao Ming first measured the shadow length BA of the building on the ground as 15.0 (as shown in the figure), and then set up a benchmark with a height of 2.0 at A, and measured the shadow length AC of the benchmark as 3.0, then the height of the building is ()
+Choices:
+A:10米
+B:12米
+C:15米
+D:22.5米",,A,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,43,180,897,"As shown in the figure, OC perpendicular  OB, OD perpendicular  AB intersects AC at point E. Knowing that the radius of circle O is 1.0, then the value of AE^ 2 + CE^ 2 is ()
+Choices:
+A:1
+B:2
+C:3
+D:4",,B,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,44,182,907,"As shown in the figure, angle XOY = 45.0, where AB = 10.0, then the maximum value of the distance from point O to vertex A is ()
+Choices:
+A:8
+B:10
+C:8√{2}
+D:10√{2}",,D,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,56,238,1187,"In the triangle, two acute angles are 45 and 30 degrees. One of a right-angle side is bisected by a line from the top vertex. Find x.
+Choices:
+A:4
+B:4 \sqrt { 2 }
+C:4 \sqrt { 3 }
+D:8",,B,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,66,298,1487,"Circle J has a radius of 10 units, \odot K has a radius of 8 units, and B C = 5.4 units. Find J K.
+Choices:
+A:12.6
+B:14.6
+C:20.6
+D:30.6",,A,,False,
+outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,95,769,3842,"What fraction of the area of the rectangle is shaded?
+Choices:
+A.3/8
+B.1/4
+C.1/8
+D.1/10
+E.1/16",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,4,17,17,"In parallelogram ABCD, the diagonal AC and BD intersect at point O, angle DAC = 42.0, angle CBD = 23.0, then angle COD is ().
+Choices:
+A:61°
+B:63°
+C:65°
+D:67°",,C,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,9,37,37,"As shown in the figure, AB parallel CD, CP intersects AB at O, AO = PO, if angle C = 50.0, then the degree of angle A is ()
+Choices:
+A:25°
+B:35°
+C:15°
+D:50°",,A,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,10,41,41,"The positions of straight lines a, b, c, and d are shown in the figure. If angle 1 = 100.0, angle 2 = 100.0, angle 3 = 125.0, then angle 4 is equal to ()
+Choices:
+A:80°
+B:65°
+C:60°
+D:55°",,D,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,13,51,51,"As shown in the figure, the points B, E, C, and F are on the same straight line, triangle ABC congruent  triangle DEF, angle B = 45.0, angle F = 65.0, then the degree of angle COE is ()
+Choices:
+A:40°
+B:60°
+C:70°
+D:100°",,C,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,15,54,54,"Place a ruler and a triangular plate as shown in the figure, angle 1 = 40.0, then the degree of angle 2 is ()
+Choices:
+A:130°
+B:140°
+C:120°
+D:125°",,A,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,16,59,59,"As shown in the figure, AB parallel CD, AD bisects angle BAC, and angle C = 80.0, then the degree of angle D is ()
+Choices:
+A:50°
+B:60°
+C:70°
+D:100°",,A,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,17,65,65,"As shown in the figure, angle 1 = angle 2, angle 4 = 30.0, then angle 3 is equal to ()
+Choices:
+A:120°
+B:130°
+C:145°
+D:150°",,D,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,21,85,85,"As shown in the figure, the circle O is the circumscribed circle of triangle ABC, and the bisector of angle BAC and angle ABC intersects at point I. Extend AI and it intersects circle O at point D. Connect BD and DC. If the radius of circle O is 8.0, angle BAC = 120.0, then the length of DI is ()
+Choices:
+A:4√{3}+2
+B:4√{3}+3
+C:8√{3}+1
+D:8√{3}",,D,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,23,102,102,"As shown in the figure, AB is the diameter of circle O, points C and D are on circle O, and point C is the midpoint of arc BD, passing point C to draw the perpendicular line EF of AD and it intersects straight line AD at point E, if the radius of circle O is 2.5, the length of AC is 4.0, then the length of CE is ()
+Choices:
+A:3
+B:\frac{20}{3}
+C:\frac{12}{5}
+D:\frac{16}{5}",,C,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,24,105,105,"As shown in the figure, AB is the diameter of circle O, CD is the chord of circle O, and the extended lines of AB and CD intersect at point E. Given that AB = 2 DE, angle E = 16.0, then the degree of angle ABC is ()
+Choices:
+A:32°
+B:24°
+C:16°
+D:48°",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,26,114,114,"As shown in the figure, in the sector OAB with a radius of 1.0 and a central angle of 90.0, OA and OB are the diameters respectively as a semicircle, and the area of the shaded part in the figure is ()
+Choices:
+A:πcm²
+B:\frac{2}{3}πcm²
+C:\frac{1}{2}cm²
+D:\frac{2}{3}cm²",,C,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,30,121,121,"The production process of paper umbrellas in our country is very ingenious. As shown in the figure, whether the umbrella is opened or closed, the handle AP always bisects the angle angle BAC formed by the two ribs in the same plane, and AE = AF, DE = DF, so as to ensure that the umbrella ring can slide along the handle. When a toy umbrella is opened, the BDC is on the same straight line. If AB = 50.0, AD = 14.0, then the area of ​​oil paper required to make such a paper umbrella is (don't remember the seam) ()
+Choices:
+A:48cm^{2}
+B:70πcm^{2}
+C:2400πcm^{2}
+D:2500πcm^{2}",,C,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,33,131,131,"As shown in the figure, in triangle ABC. angle C = 90.0, point D is a moving point on BC (point D does not coincide with point C). The circle with CD as the diameter intersects AD at point P. If AC = 6.0. The minimum length of the line segment BP is 2.0. Then the length of AB is ()
+Choices:
+A:8
+B:2√{10}
+C:4√{3}
+D:2√{13}",,D,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,43,180,180,"As shown in the figure, triangle ABC is inscribed in circle O, OC perpendicular  OB, OD perpendicular  AB intersects AC at point E. Knowing that the radius of circle O is 1.0, then the value of AE^ 2 + CE^ 2 is ()
+Choices:
+A:1
+B:2
+C:3
+D:4",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,49,194,194,"Put the ruler, the triangle ruler and the round nut on the desktop as shown in the figure, angle CAB = 60.0, if AD = 6.0, then the outer diameter of the round nut is ()
+Choices:
+A:12cm
+B:24cm
+C:6√{3}cm
+D:12√{3}cm",,D,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,50,197,197,"As shown in the figure, circle O is the circumcircle of triangle ABC, circle O ia tangent to AB at point C, angle BCE = 60.0, DC = 6.0, DE = 4.0, then S_triangle CDE is ()
+Choices:
+A:6√{5}
+B:6√{3}
+C:6√{2}
+D:6",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,51,201,201,"There is a circle with center M and two chords A C and T N. The distences between M and the two chords are equal. Find m \angle C A M.
+Choices:
+A:14
+B:28
+C:36
+D:90",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,55,224,224,"In the figure, a regular polygon is inscribed in a circle with center R. R S is perpendicular to K L. Find the measure of a central angle.
+Choices:
+A:30
+B:60
+C:90
+D:120",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,56,238,238,"In the triangle with height x, two acute angles are 45 and 30 degrees. One of a right-angle side is bisected by a line from the top vertex. Find x.
+Choices:
+A:4
+B:4 \sqrt { 2 }
+C:4 \sqrt { 3 }
+D:8",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,64,292,292,"In the right triangle, an acute angle is 70 degrees and the hypotenuse is x length. Find x to the nearest hundredth.
+Choices:
+A:5.13
+B:5.46
+C:15.96
+D:43.86",,D,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,66,298,298,"The diameters of \odot J and \odot K are on the same line with points A, B, C, and D. Circle J has a radius of 10 units, \odot K has a radius of 8 units, and B C = 5.4 units. Find J K.
+Choices:
+A:12.6
+B:14.6
+C:20.6
+D:30.6",,A,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,68,312,312,"Two triangles have a shared vertex with three annotated points A, B, and C. Find the measure of \angle 2 if A B \perp B C.
+Choices:
+A:64
+B:68
+C:72
+D:76",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,79,548,548,"Emile is observing a wind turbine. The vertical distance between the ground and the tip of one of the turbine's blades, in meters, is modeled by $H(t)$ where $t$ is the time in seconds. The function is graphed below, along with one segment highlighted. What is the meaning of the highlighted segment?
+Choices:
+A:The turbine's center is 35 meters above the ground.
+B:The turbine completes a single cycle in 35 seconds.
+C:The length of the blade is 35 meters.
+D:The turbine has 35 blades.",,A,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,92,761,761,"In the triangle above, angle M is 80 degrees and angle Q is 30 degrees. The length of MN is 4. Which of the following must be true?
+Choices:
+A.p=r
+B.p<r
+C.p>r
+D.p=4
+E.p>4",,C,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,93,763,763,"In the figure above, the four circles have the same center and their radii are 1, 2, 3, and 4, respectively. They form two shaded rings and two write rings. What is the ratio of the area of the small shaded ring to the area of the large shaded ring?
+Choices:
+A.1:2
+B.1:4
+C.3:5
+D.3:7
+E.5:7",,D,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,95,769,769,"Four lines are drawn through the center of the rectangle shown above.The rectangle is divided into eight triangles. What fraction of the area of the rectangle is shaded?
+Choices:
+A.3/8
+B.1/4
+C.1/8
+D.1/10
+E.1/16",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,96,774,774,"In the figure above, a+b = 54, and one of the angles is 126°. What is the value of x?
+Choices:
+A.72
+B.70
+C.68
+D.66
+E.64",,A,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,97,779,779,"In the figure above, line AB, line CD, and line EF intersect at P. If r = 90, s = 50, t = 60, u = 45, and w = 50, what is the value of x?
+Choices:
+A.45
+B.50
+C.65
+D.75
+E.It cannot be determined from the information given",,C,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,98,783,783,"The degrees of each angle are shown in the figure, two of the angles are the same and both are x. If x = 20 and y = 30 in the figure above, what is the value of z?
+Choices:
+A.60
+B.70
+C.80
+D.90
+E.100",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,1,13,13,"As shown in the figure, AB parallel EF, angle BAC = 50.0, then angle ACD = ()
+Choices:
+A:120°
+B:130°
+C:140°
+D:150°",,C,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,15,54,54,"Place a ruler and a triangular plate as shown in the figure, angle 1 = 40.0, then the degree of angle 2 is ()
+Choices:
+A:130°
+B:140°
+C:120°
+D:125°",,A,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,16,59,59,"As shown in the figure, AB parallel CD, AD bisects angle BAC, and angle C = 80.0, then the degree of angle D is ()
+Choices:
+A:50°
+B:60°
+C:70°
+D:100°",,A,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,21,85,85,"As shown in the figure, the circle O is the circumscribed circle of triangle ABC, and the bisector of angle BAC and angle ABC intersects at point I. Extend AI and it intersects circle O at point D. Connect BD and DC. If the radius of circle O is 8.0, angle BAC = 120.0, then the length of DI is ()
+Choices:
+A:4√{3}+2
+B:4√{3}+3
+C:8√{3}+1
+D:8√{3}",,D,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,23,102,102,"As shown in the figure, AB is the diameter of circle O, points C and D are on circle O, and point C is the midpoint of arc BD, passing point C to draw the perpendicular line EF of AD and it intersects straight line AD at point E, if the radius of circle O is 2.5, the length of AC is 4.0, then the length of CE is ()
+Choices:
+A:3
+B:\frac{20}{3}
+C:\frac{12}{5}
+D:\frac{16}{5}",,C,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,24,105,105,"As shown in the figure, AB is the diameter of circle O, CD is the chord of circle O, and the extended lines of AB and CD intersect at point E. Given that AB = 2 DE, angle E = 16.0, then the degree of angle ABC is ()
+Choices:
+A:32°
+B:24°
+C:16°
+D:48°",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,26,114,114,"As shown in the figure, in the sector OAB with a radius of 1.0 and a central angle of 90.0, OA and OB are the diameters respectively as a semicircle, and the area of the shaded part in the figure is ()
+Choices:
+A:πcm²
+B:\frac{2}{3}πcm²
+C:\frac{1}{2}cm²
+D:\frac{2}{3}cm²",,C,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,30,121,121,"The production process of paper umbrellas in our country is very ingenious. As shown in the figure, whether the umbrella is opened or closed, the handle AP always bisects the angle angle BAC formed by the two ribs in the same plane, and AE = AF, DE = DF, so as to ensure that the umbrella ring can slide along the handle. When a toy umbrella is opened, the BDC is on the same straight line. If AB = 50.0, AD = 14.0, then the area of ​​oil paper required to make such a paper umbrella is (don't remember the seam) ()
+Choices:
+A:48cm^{2}
+B:70πcm^{2}
+C:2400πcm^{2}
+D:2500πcm^{2}",,C,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,33,131,131,"As shown in the figure, in triangle ABC. angle C = 90.0, point D is a moving point on BC (point D does not coincide with point C). The circle with CD as the diameter intersects AD at point P. If AC = 6.0. The minimum length of the line segment BP is 2.0. Then the length of AB is ()
+Choices:
+A:8
+B:2√{10}
+C:4√{3}
+D:2√{13}",,D,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,43,180,180,"As shown in the figure, triangle ABC is inscribed in circle O, OC perpendicular  OB, OD perpendicular  AB intersects AC at point E. Knowing that the radius of circle O is 1.0, then the value of AE^ 2 + CE^ 2 is ()
+Choices:
+A:1
+B:2
+C:3
+D:4",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,49,194,194,"Put the ruler, the triangle ruler and the round nut on the desktop as shown in the figure, angle CAB = 60.0, if AD = 6.0, then the outer diameter of the round nut is ()
+Choices:
+A:12cm
+B:24cm
+C:6√{3}cm
+D:12√{3}cm",,D,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,50,197,197,"As shown in the figure, circle O is the circumcircle of triangle ABC, circle O ia tangent to AB at point C, angle BCE = 60.0, DC = 6.0, DE = 4.0, then S_triangle CDE is ()
+Choices:
+A:6√{5}
+B:6√{3}
+C:6√{2}
+D:6",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,52,202,202,"In the figure below, \angle A B C is intersected by parallel lines l and m at points A and C, respectively. What is the measure of \angle A B C? Express your answer in degrees.
+Choices:
+A:33
+B:38
+C:61
+D:71",,D,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,55,224,224,"In the figure, a regular polygon is inscribed in a circle with center R. R S is perpendicular to K L. Find the measure of a central angle.
+Choices:
+A:30
+B:60
+C:90
+D:120",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,56,238,238,"In the triangle with height x, two acute angles are 45 and 30 degrees. One of a right-angle side is bisected by a line from the top vertex. Find x.
+Choices:
+A:4
+B:4 \sqrt { 2 }
+C:4 \sqrt { 3 }
+D:8",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,64,292,292,"In the right triangle, an acute angle is 70 degrees and the hypotenuse is x length. Find x to the nearest hundredth.
+Choices:
+A:5.13
+B:5.46
+C:15.96
+D:43.86",,D,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,66,298,298,"The diameters of \odot J and \odot K are on the same line with points A, B, C, and D. Circle J has a radius of 10 units, \odot K has a radius of 8 units, and B C = 5.4 units. Find J K.
+Choices:
+A:12.6
+B:14.6
+C:20.6
+D:30.6",,A,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,68,312,312,"Two triangles have a shared vertex with three annotated points A, B, and C. Find the measure of \angle 2 if A B \perp B C.
+Choices:
+A:64
+B:68
+C:72
+D:76",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,79,548,548,"Emile is observing a wind turbine. The vertical distance between the ground and the tip of one of the turbine's blades, in meters, is modeled by $H(t)$ where $t$ is the time in seconds. The function is graphed below, along with one segment highlighted. What is the meaning of the highlighted segment?
+Choices:
+A:The turbine's center is 35 meters above the ground.
+B:The turbine completes a single cycle in 35 seconds.
+C:The length of the blade is 35 meters.
+D:The turbine has 35 blades.",,A,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,92,761,761,"In the triangle above, angle M is 80 degrees and angle Q is 30 degrees. The length of MN is 4. Which of the following must be true?
+Choices:
+A.p=r
+B.p<r
+C.p>r
+D.p=4
+E.p>4",,C,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,93,763,763,"In the figure above, the four circles have the same center and their radii are 1, 2, 3, and 4, respectively. They form two shaded rings and two write rings. What is the ratio of the area of the small shaded ring to the area of the large shaded ring?
+Choices:
+A.1:2
+B.1:4
+C.3:5
+D.3:7
+E.5:7",,D,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,95,769,769,"Four lines are drawn through the center of the rectangle shown above.The rectangle is divided into eight triangles. What fraction of the area of the rectangle is shaded?
+Choices:
+A.3/8
+B.1/4
+C.1/8
+D.1/10
+E.1/16",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,97,779,779,"In the figure above, line AB, line CD, and line EF intersect at P. If r = 90, s = 50, t = 60, u = 45, and w = 50, what is the value of x?
+Choices:
+A.45
+B.50
+C.65
+D.75
+E.It cannot be determined from the information given",,C,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,98,783,783,"The degrees of each angle are shown in the figure, two of the angles are the same and both are x. If x = 20 and y = 30 in the figure above, what is the value of z?
+Choices:
+A.60
+B.70
+C.80
+D.90
+E.100",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,99,785,785,"In the figure above, a shaded polygon which has equal sides and equal angles is partially covered with a sheet of blank paper, only one quadrilateral is showing. If x + y = 80, how many sides does the polygon have?
+Choices:
+A.Ten
+B.Nine
+C.Eight
+D.Seven
+E.Six",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,10,41,41,"The positions of straight lines a, b, c, and d are shown in the figure. If angle 1 = 100.0, angle 2 = 100.0, angle 3 = 125.0, then angle 4 is equal to ()
+Choices:
+A:80°
+B:65°
+C:60°
+D:55°",,D,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,15,54,54,"Place a ruler and a triangular plate as shown in the figure, angle 1 = 40.0, then the degree of angle 2 is ()
+Choices:
+A:130°
+B:140°
+C:120°
+D:125°",,A,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,16,59,59,"As shown in the figure, AB parallel CD, AD bisects angle BAC, and angle C = 80.0, then the degree of angle D is ()
+Choices:
+A:50°
+B:60°
+C:70°
+D:100°",,A,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,21,85,85,"As shown in the figure, the circle O is the circumscribed circle of triangle ABC, and the bisector of angle BAC and angle ABC intersects at point I. Extend AI and it intersects circle O at point D. Connect BD and DC. If the radius of circle O is 8.0, angle BAC = 120.0, then the length of DI is ()
+Choices:
+A:4√{3}+2
+B:4√{3}+3
+C:8√{3}+1
+D:8√{3}",,D,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,23,102,102,"As shown in the figure, AB is the diameter of circle O, points C and D are on circle O, and point C is the midpoint of arc BD, passing point C to draw the perpendicular line EF of AD and it intersects straight line AD at point E, if the radius of circle O is 2.5, the length of AC is 4.0, then the length of CE is ()
+Choices:
+A:3
+B:\frac{20}{3}
+C:\frac{12}{5}
+D:\frac{16}{5}",,C,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,24,105,105,"As shown in the figure, AB is the diameter of circle O, CD is the chord of circle O, and the extended lines of AB and CD intersect at point E. Given that AB = 2 DE, angle E = 16.0, then the degree of angle ABC is ()
+Choices:
+A:32°
+B:24°
+C:16°
+D:48°",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,26,114,114,"As shown in the figure, in the sector OAB with a radius of 1.0 and a central angle of 90.0, OA and OB are the diameters respectively as a semicircle, and the area of the shaded part in the figure is ()
+Choices:
+A:πcm²
+B:\frac{2}{3}πcm²
+C:\frac{1}{2}cm²
+D:\frac{2}{3}cm²",,C,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,33,131,131,"As shown in the figure, in triangle ABC. angle C = 90.0, point D is a moving point on BC (point D does not coincide with point C). The circle with CD as the diameter intersects AD at point P. If AC = 6.0. The minimum length of the line segment BP is 2.0. Then the length of AB is ()
+Choices:
+A:8
+B:2√{10}
+C:4√{3}
+D:2√{13}",,D,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,43,180,180,"As shown in the figure, triangle ABC is inscribed in circle O, OC perpendicular  OB, OD perpendicular  AB intersects AC at point E. Knowing that the radius of circle O is 1.0, then the value of AE^ 2 + CE^ 2 is ()
+Choices:
+A:1
+B:2
+C:3
+D:4",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,45,184,184,"As shown in the figure, in the circle O with a radius of 2.0, C is a point on the extended line of the diameter AB, CD is tangent to the circle at point D. Connect AD, given that angle DAC = 30.0, the length of the line segment CD is ()
+Choices:
+A:1
+B:√{3}
+C:2
+D:2√{3}",,D,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,49,194,194,"Put the ruler, the triangle ruler and the round nut on the desktop as shown in the figure, angle CAB = 60.0, if AD = 6.0, then the outer diameter of the round nut is ()
+Choices:
+A:12cm
+B:24cm
+C:6√{3}cm
+D:12√{3}cm",,D,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,50,197,197,"As shown in the figure, circle O is the circumcircle of triangle ABC, circle O ia tangent to AB at point C, angle BCE = 60.0, DC = 6.0, DE = 4.0, then S_triangle CDE is ()
+Choices:
+A:6√{5}
+B:6√{3}
+C:6√{2}
+D:6",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,51,201,201,"There is a circle with center M and two chords A C and T N. The distences between M and the two chords are equal. Find m \angle C A M.
+Choices:
+A:14
+B:28
+C:36
+D:90",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,52,202,202,"In the figure below, \angle A B C is intersected by parallel lines l and m at points A and C, respectively. What is the measure of \angle A B C? Express your answer in degrees.
+Choices:
+A:33
+B:38
+C:61
+D:71",,D,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,54,222,222,"For the pair of similar figures in blue and green, use the given areas to find x.
+Choices:
+A:1
+B:2
+C:8
+D:16",,C,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,55,224,224,"In the figure, a regular polygon is inscribed in a circle with center R. R S is perpendicular to K L. Find the measure of a central angle.
+Choices:
+A:30
+B:60
+C:90
+D:120",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,56,238,238,"In the triangle with height x, two acute angles are 45 and 30 degrees. One of a right-angle side is bisected by a line from the top vertex. Find x.
+Choices:
+A:4
+B:4 \sqrt { 2 }
+C:4 \sqrt { 3 }
+D:8",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,61,283,283,"In \odot M, M K and M P are radii and perpendicular to chords F G and H J, respectively. F L = 24, H J = 48, and m \widehat H P = 65. Find F G.
+Choices:
+A:24
+B:32
+C:48
+D:65",,C,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,64,292,292,"In the right triangle, an acute angle is 70 degrees and the hypotenuse is x length. Find x to the nearest hundredth.
+Choices:
+A:5.13
+B:5.46
+C:15.96
+D:43.86",,D,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,66,298,298,"The diameters of \odot J and \odot K are on the same line with points A, B, C, and D. Circle J has a radius of 10 units, \odot K has a radius of 8 units, and B C = 5.4 units. Find J K.
+Choices:
+A:12.6
+B:14.6
+C:20.6
+D:30.6",,A,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,68,312,312,"Two triangles have a shared vertex with three annotated points A, B, and C. Find the measure of \angle 2 if A B \perp B C.
+Choices:
+A:64
+B:68
+C:72
+D:76",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,92,761,761,"In the triangle above, angle M is 80 degrees and angle Q is 30 degrees. The length of MN is 4. Which of the following must be true?
+Choices:
+A.p=r
+B.p<r
+C.p>r
+D.p=4
+E.p>4",,C,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,95,769,769,"Four lines are drawn through the center of the rectangle shown above.The rectangle is divided into eight triangles. What fraction of the area of the rectangle is shaded?
+Choices:
+A.3/8
+B.1/4
+C.1/8
+D.1/10
+E.1/16",,B,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,97,779,779,"In the figure above, line AB, line CD, and line EF intersect at P. If r = 90, s = 50, t = 60, u = 45, and w = 50, what is the value of x?
+Choices:
+A.45
+B.50
+C.65
+D.75
+E.It cannot be determined from the information given",,C,,False,
+outputs/text_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,98,783,783,"The degrees of each angle are shown in the figure, two of the angles are the same and both are x. If x = 20 and y = 30 in the figure above, what is the value of z?
+Choices:
+A.60
+B.70
+C.80
+D.90
+E.100",,B,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,1,13,65,,,C,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,3,16,80,,,A,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,8,36,180,,,A,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,9,37,185,,,A,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,10,41,205,,,D,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,14,53,265,,,A,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,15,54,270,,,A,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,17,65,325,,,D,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,21,85,425,,,D,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,23,102,510,,,C,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,24,105,525,,,B,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,26,114,570,,,C,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,30,121,605,,,C,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,31,122,610,,,D,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,33,131,655,,,D,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,38,149,745,,,A,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,43,180,900,,,B,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,44,182,910,,,D,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,48,193,965,,,C,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,49,194,970,,,D,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,50,197,985,,,B,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,51,201,1005,,,B,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,66,298,1490,,,A,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,69,313,1565,,,B,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,97,779,3895,,,C,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,98,783,3915,,,B,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,99,785,3925,,,B,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,1,13,65,,,C,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,8,36,180,,,A,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,10,41,205,,,D,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,13,51,255,,,C,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,21,85,425,,,D,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,23,102,510,,,C,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,24,105,525,,,B,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,25,111,555,,,C,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,26,114,570,,,C,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,30,121,605,,,C,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,33,131,655,,,D,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,43,180,900,,,B,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,44,182,910,,,D,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,46,189,945,,,B,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,48,193,965,,,C,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,49,194,970,,,D,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,95,769,3845,,,B,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,98,783,3915,,,B,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,99,785,3925,,,B,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,1,13,65,,,C,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,8,36,180,,,A,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,10,41,205,,,D,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,21,85,425,,,D,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,23,102,510,,,C,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,24,105,525,,,B,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,26,114,570,,,C,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,30,121,605,,,C,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,33,131,655,,,D,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,38,149,745,,,A,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,43,180,900,,,B,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,44,182,910,,,D,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,45,184,920,,,D,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,47,191,955,,,D,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,48,193,965,,,C,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,49,194,970,,,D,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,51,201,1005,,,B,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,76,507,2535,,,B,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,95,769,3845,,,B,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,98,783,3915,,,B,,False,
+outputs/vision_only/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,99,785,3925,,,B,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,8,36,179,"As shown in the figure, passing point C to draw the tangent of circle O. then the degree of angle A is ()
+Choices:
+A:20°
+B:25°
+C:.40°
+D:50°",,A,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,10,41,204,"then angle 4 is equal to ()
+Choices:
+A:80°
+B:65°
+C:60°
+D:55°",,D,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,15,54,269,"Place a ruler and a triangular plate as shown in the figure,then the degree of angle 2 is ()
+Choices:
+A:130°
+B:140°
+C:120°
+D:125°",,A,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,17,65,324,"As shown in the figure, angle 1 = angle 2, then angle 3 is equal to ()
+Choices:
+A:120°
+B:130°
+C:145°
+D:150°",,D,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,21,85,424,"As shown in the figure, the circle O is the circumscribed circle of triangle ABC and the bisector of angle BAC and angle ABC intersects at point I, then the length of DI is ()
+Choices:
+A:4√{3}+2
+B:4√{3}+3
+C:8√{3}+1
+D:8√{3}",,D,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,23,102,509,"As shown in the figure, and point C is the midpoint of arc BD, passing point C to draw the perpendicular line EF of AD, then the length of CE is ()
+Choices:
+A:3
+B:\frac{20}{3}
+C:\frac{12}{5}
+D:\frac{16}{5}",,C,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,24,105,524,"As shown in the figure, Given that AB = 2 DE, then the degree of angle ABC is ()
+Choices:
+A:32°
+B:24°
+C:16°
+D:48°",,B,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,26,114,569,"As shown in the figure, and the area of the shaded part in the figure is ()
+Choices:
+A:πcm²
+B:\frac{2}{3}πcm²
+C:\frac{1}{2}cm²
+D:\frac{2}{3}cm²",,C,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,30,121,604,"the handle AP always bisects the angle angle BAC formed by the two ribs in the same plane, and AE = AF, DE = DF, then the area of ​​oil paper required to make such a paper umbrella is (don't remember the seam) ()
+Choices:
+A:48cm^{2}
+B:70πcm^{2}
+C:2400πcm^{2}
+D:2500πcm^{2}",,C,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,33,131,654,"As shown in the figure, The circle with CD as the diameter intersects AD at point P. Then the length of AB is ()
+Choices:
+A:8
+B:2√{10}
+C:4√{3}
+D:2√{13}",,D,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,34,141,704,"then the height of the building is ()
+Choices:
+A:10m
+B:12m
+C:15m
+D:22.5m",,A,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,38,149,744,"As shown in the figure, AC perpendicular  CD, BD perpendicular  CD, then the length of the line segment ED is ()
+Choices:
+A:\frac{20}{3}
+B:\frac{10}{3}
+C:7
+D:\frac{14}{3}",,A,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,43,180,899,"As shown in the figure, then the value of AE^ 2 + CE^ 2 is ()
+Choices:
+A:1
+B:2
+C:3
+D:4",,B,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,44,182,909,"As shown in the figure, then the maximum value of the distance from point O to vertex A is ()
+Choices:
+A:8
+B:10
+C:8√{2}
+D:10√{2}",,D,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,45,184,919,"As shown in the figure, CD is tangent to the circle at point D, the length of the line segment CD is ()
+Choices:
+A:1
+B:√{3}
+C:2
+D:2√{3}",,D,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,47,191,954,"As shown in the figure, and the tangent line of circle O passing through point A, then the length of AP is ()
+Choices:
+A:3
+B:\frac{3}{2}
+C:\frac{2}{3}√{3}
+D:\frac{3}{2}√{3}",,D,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,48,193,964,"As shown in the figure, PA and PB are tangent to circle O, the tangent EF of circle O intersects PA and PB at points E and F respectively. ",,C,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,49,194,969,"Then the outer diameter of the round nut is ()
+Choices:
+A:12cm
+B:24cm
+C:6√{3}cm
+D:12√{3}cm",,D,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,51,201,1004,"The distences between M and the two chords are equal. Find m \angle C A M.
+Choices:
+A:14
+B:28
+C:36
+D:90",,B,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,95,769,3844,"What fraction of the area of the figure is shaded?
+Choices:
+A.3/8
+B.1/4
+C.1/8
+D.1/10
+E.1/16
+",,B,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,97,779,3894,"In the figure above, what is the value of x?
+Choices:
+A.45
+B.50
+C.65
+D.75
+E.It cannot be determined from the information given
+",,C,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv,0,99,785,3924,"In the figure above, a shaded polygon which has equal sides and equal angles is partially covered with a sheet of blank paper. If x + y = 80, how many sides does the polygon have?
+Choices:
+A.Ten
+B.Nine
+C.Eight
+D.Seven
+E.Six
+",,B,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,10,41,204,"then angle 4 is equal to ()
+Choices:
+A:80°
+B:65°
+C:60°
+D:55°",,D,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,15,54,269,"Place a ruler and a triangular plate as shown in the figure,then the degree of angle 2 is ()
+Choices:
+A:130°
+B:140°
+C:120°
+D:125°",,A,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,17,65,324,"As shown in the figure, angle 1 = angle 2, then angle 3 is equal to ()
+Choices:
+A:120°
+B:130°
+C:145°
+D:150°",,D,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,21,85,424,"As shown in the figure, the circle O is the circumscribed circle of triangle ABC and the bisector of angle BAC and angle ABC intersects at point I, then the length of DI is ()
+Choices:
+A:4√{3}+2
+B:4√{3}+3
+C:8√{3}+1
+D:8√{3}",,D,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,23,102,509,"As shown in the figure, and point C is the midpoint of arc BD, passing point C to draw the perpendicular line EF of AD, then the length of CE is ()
+Choices:
+A:3
+B:\frac{20}{3}
+C:\frac{12}{5}
+D:\frac{16}{5}",,C,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,24,105,524,"As shown in the figure, Given that AB = 2 DE, then the degree of angle ABC is ()
+Choices:
+A:32°
+B:24°
+C:16°
+D:48°",,B,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,25,111,554,"AD is the angle bisector of angle CAB, and crossing point C is the high line CE on the AD side in triangle ACD, then the degree of angle ECD is ()
+Choices:
+A:63°
+B:45°
+C:27°
+D:18°",,C,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,26,114,569,"As shown in the figure, and the area of the shaded part in the figure is ()
+Choices:
+A:πcm²
+B:\frac{2}{3}πcm²
+C:\frac{1}{2}cm²
+D:\frac{2}{3}cm²",,C,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,30,121,604,"the handle AP always bisects the angle angle BAC formed by the two ribs in the same plane, and AE = AF, DE = DF, then the area of ​​oil paper required to make such a paper umbrella is (don't remember the seam) ()
+Choices:
+A:48cm^{2}
+B:70πcm^{2}
+C:2400πcm^{2}
+D:2500πcm^{2}",,C,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,33,131,654,"As shown in the figure, The circle with CD as the diameter intersects AD at point P. Then the length of AB is ()
+Choices:
+A:8
+B:2√{10}
+C:4√{3}
+D:2√{13}",,D,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,34,141,704,"then the height of the building is ()
+Choices:
+A:10m
+B:12m
+C:15m
+D:22.5m",,A,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,38,149,744,"As shown in the figure, AC perpendicular  CD, BD perpendicular  CD, then the length of the line segment ED is ()
+Choices:
+A:\frac{20}{3}
+B:\frac{10}{3}
+C:7
+D:\frac{14}{3}",,A,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,43,180,899,"As shown in the figure, then the value of AE^ 2 + CE^ 2 is ()
+Choices:
+A:1
+B:2
+C:3
+D:4",,B,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,47,191,954,"As shown in the figure, and the tangent line of circle O passing through point A, then the length of AP is ()
+Choices:
+A:3
+B:\frac{3}{2}
+C:\frac{2}{3}√{3}
+D:\frac{3}{2}√{3}",,D,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,49,194,969,"Then the outer diameter of the round nut is ()
+Choices:
+A:12cm
+B:24cm
+C:6√{3}cm
+D:12√{3}cm",,D,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,51,201,1004,"The distences between M and the two chords are equal. Find m \angle C A M.
+Choices:
+A:14
+B:28
+C:36
+D:90",,B,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,70,319,1594,"Find the area of the green figure.
+Choices:
+A:9
+B:18
+C:72
+D:144",,A,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,90,752,3759,"The figure above shows a triangular prism. If the volume of the prism is $\frac{81}{4}$, what is the value of $x$ ?
+Choices:
+A:3
+B:4
+C:5
+D:6",,A,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,95,769,3844,"What fraction of the area of the figure is shaded?
+Choices:
+A.3/8
+B.1/4
+C.1/8
+D.1/10
+E.1/16
+",,B,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv,1,99,785,3924,"In the figure above, a shaded polygon which has equal sides and equal angles is partially covered with a sheet of blank paper. If x + y = 80, how many sides does the polygon have?
+Choices:
+A.Ten
+B.Nine
+C.Eight
+D.Seven
+E.Six
+",,B,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,10,41,204,"then angle 4 is equal to ()
+Choices:
+A:80°
+B:65°
+C:60°
+D:55°",,D,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,15,54,269,"Place a ruler and a triangular plate as shown in the figure,then the degree of angle 2 is ()
+Choices:
+A:130°
+B:140°
+C:120°
+D:125°",,A,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,17,65,324,"As shown in the figure, angle 1 = angle 2, then angle 3 is equal to ()
+Choices:
+A:120°
+B:130°
+C:145°
+D:150°",,D,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,21,85,424,"As shown in the figure, the circle O is the circumscribed circle of triangle ABC and the bisector of angle BAC and angle ABC intersects at point I, then the length of DI is ()
+Choices:
+A:4√{3}+2
+B:4√{3}+3
+C:8√{3}+1
+D:8√{3}",,D,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,22,89,444,"As shown in the figure, then the degree of angle BAO is ()
+Choices:
+A:50°
+B:55°
+C:60°
+D:65°",,D,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,23,102,509,"As shown in the figure, and point C is the midpoint of arc BD, passing point C to draw the perpendicular line EF of AD, then the length of CE is ()
+Choices:
+A:3
+B:\frac{20}{3}
+C:\frac{12}{5}
+D:\frac{16}{5}",,C,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,24,105,524,"As shown in the figure, Given that AB = 2 DE, then the degree of angle ABC is ()
+Choices:
+A:32°
+B:24°
+C:16°
+D:48°",,B,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,26,114,569,"As shown in the figure, and the area of the shaded part in the figure is ()
+Choices:
+A:πcm²
+B:\frac{2}{3}πcm²
+C:\frac{1}{2}cm²
+D:\frac{2}{3}cm²",,C,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,30,121,604,"the handle AP always bisects the angle angle BAC formed by the two ribs in the same plane, and AE = AF, DE = DF, then the area of ​​oil paper required to make such a paper umbrella is (don't remember the seam) ()
+Choices:
+A:48cm^{2}
+B:70πcm^{2}
+C:2400πcm^{2}
+D:2500πcm^{2}",,C,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,33,131,654,"As shown in the figure, The circle with CD as the diameter intersects AD at point P. Then the length of AB is ()
+Choices:
+A:8
+B:2√{10}
+C:4√{3}
+D:2√{13}",,D,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,34,141,704,"then the height of the building is ()
+Choices:
+A:10m
+B:12m
+C:15m
+D:22.5m",,A,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,38,149,744,"As shown in the figure, AC perpendicular  CD, BD perpendicular  CD, then the length of the line segment ED is ()
+Choices:
+A:\frac{20}{3}
+B:\frac{10}{3}
+C:7
+D:\frac{14}{3}",,A,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,43,180,899,"As shown in the figure, then the value of AE^ 2 + CE^ 2 is ()
+Choices:
+A:1
+B:2
+C:3
+D:4",,B,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,47,191,954,"As shown in the figure, and the tangent line of circle O passing through point A, then the length of AP is ()
+Choices:
+A:3
+B:\frac{3}{2}
+C:\frac{2}{3}√{3}
+D:\frac{3}{2}√{3}",,D,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,48,193,964,"As shown in the figure, PA and PB are tangent to circle O, the tangent EF of circle O intersects PA and PB at points E and F respectively. ",,C,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,51,201,1004,"The distences between M and the two chords are equal. Find m \angle C A M.
+Choices:
+A:14
+B:28
+C:36
+D:90",,B,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,57,242,1209,"Find m \angle W.
+Choices:
+A:38
+B:38
+C:76
+D:152",,C,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,95,769,3844,"What fraction of the area of the figure is shaded?
+Choices:
+A.3/8
+B.1/4
+C.1/8
+D.1/10
+E.1/16
+",,B,,False,
+outputs/visual_dominant/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv,2,99,785,3924,"In the figure above, a shaded polygon which has equal sides and equal angles is partially covered with a sheet of blank paper. If x + y = 80, how many sides does the polygon have?
+Choices:
+A.Ten
+B.Nine
+C.Eight
+D.Seven
+E.Six
+",,B,,False,

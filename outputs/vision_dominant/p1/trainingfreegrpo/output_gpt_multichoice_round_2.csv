@@ -1,0 +1,752 @@
+﻿idx_in_dataset,problem_index,sample_index,question_used,prompt_name,algorithm,round,model,model_output,predicted_final_answer,reference_answer,is_correct,format_valid
+0,4,19,"As shown in the figure, AB is tangent to circle O at point B, then angle C is equal to ()
+Choices:
+A:36°
+B:54°
+C:60°
+D:27°",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. circle O 2. AB is tangent to circle O at B 3. B and C are on circle O 4. points A O C are collinear in that order 5. angle BAC is 36.0
+Solution: Since AB is tangent to circle O at B, radius OB is perpendicular to AB, so angle ABO is 90.0. Because points A, O, and C are collinear, angle BAO is the same as angle BAC, so angle BAO is 36.0. In triangle AOB, angle AOB = 180.0 - 90.0 - 36.0 = 54.0. Since A, O, and C are collinear, rays OA and OC are opposite rays, so angle BOC = 180.0 - 54.0 = 126.0. In triangle BOC, OB and OC are radii of the same circle, so OB = OC and the base angles at B and C are equal. Therefore angle C = (180.0 - 126.0) / 2 = 27.0. This matches choice D.
+Final Answer: D",D,D,True,True
+1,13,64,"As shown in the figure, AB parallel EF, then angle ACD = ()
+Choices:
+A:120°
+B:130°
+C:140°
+D:150°",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. line AB is parallel to line EF 2. angle BAC is 50.0 3. line CD is perpendicular to line EF
+Solution: Since line AB is parallel to line EF and line CD is perpendicular to line EF, line CD is also perpendicular to line AB. Draw a line through C parallel to AB and EF. The angle between CA and this parallel line on the left side is 50.0 because corresponding angles formed by parallel lines are equal. The angle between this parallel line and CD is 90.0 because CD is perpendicular to the parallel lines. Therefore, angle ACD is 50.0 + 90.0 = 140.0. This matches choice C.
+Final Answer: C",C,C,True,True
+2,14,69,"As shown in the figure, triangle ABC is the inscribed triangle of circle O, then the degree of angle ACB is ()
+Choices:
+A:35°
+B:55°
+C:60°
+D:70°",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. circle O 2. points A B C are on circle O 3. O is center 4. angle OAB is 35.0
+Solution: Since O is the center and A and B are on the circle, OA and OB are radii, so OA = OB. Therefore triangle AOB is isosceles, and angle OAB = angle ABO = 35.0. The central angle AOB is 180.0 - 35.0 - 35.0 = 110.0. Angle ACB is an inscribed angle subtending arc AB, so it is half of central angle AOB. Thus angle ACB = 110.0 / 2 = 55.0, which matches choice B.
+Final Answer: B",B,B,True,True
+3,16,79,"As shown in the figure, chord AC parallel radius OB, then the degree of angle OAB is ()
+Choices:
+A:25°
+B:50°
+C:60°
+D:30°",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. O is the center of the circle 2. A B C are on the circle 3. chord AC is parallel to radius OB 4. angle COB is 50.0 Solution: Since O is the center, OA, OB, and OC are radii, so OA = OC = OB. Because AC is parallel to OB, the angle between AC and CO equals the angle between OB and OC. Therefore angle ACO = 50.0. In triangle AOC, OA = OC, so angle OAC = angle ACO = 50.0. Thus angle AOC = 180.0 - 50.0 - 50.0 = 80.0. The central angle AOB is angle AOC plus angle COB, so angle AOB = 80.0 + 50.0 = 130.0. In triangle AOB, OA = OB, so the base angles are equal. Therefore angle OAB = (180.0 - 130.0) / 2 = 25.0. This matches choice A. Final Answer: A",A,A,True,True
+4,17,84,"In parallelogram ABCD, then angle COD is ().
+Choices:
+A:61°
+B:63°
+C:65°
+D:67°",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. parallelogram ABCD 2. points A O C are collinear in that order 3. points B O D are collinear in that order 4. angle DAC is 42.0 5. angle CBD is 23.0
+Solution: In parallelogram ABCD, opposite sides AD and BC are parallel. Since AC crosses the parallel lines AD and BC, the angle that AC makes with AD is 42.0. Since BD crosses the parallel lines BC and AD, the angle that BD makes with BC is 23.0. At O, angle COD is the angle between the two diagonals AC and BD on the right side. One diagonal makes a 42.0 degree angle below the parallel side direction, and the other makes a 23.0 degree angle above it. Therefore, angle COD is 42.0 + 23.0 = 65.0 degrees. This matches choice C.
+Final Answer: C",C,C,True,True
+5,23,114,"As shown in the figure, PA and PB are tangent to circle O at A and B respectively. then the degree of angle P is ()
+Choices:
+A:65°
+B:130°
+C:50°
+D:100°",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. circle O 2. points A B C are on circle O 3. line PA is tangent to circle O at A 4. line PB is tangent to circle O at B 5. angle ACB is 65.0
+Solution: Angle ACB is an inscribed angle that intercepts arc AB. An inscribed angle is half the measure of its intercepted arc, so arc AB is 2 × 65.0 = 130.0 degrees. The central angle AOB has the same measure as arc AB, so angle AOB is 130.0 degrees. The angle between two tangents from the same external point equals 180.0 degrees minus the central angle between the radii to the tangent points. Therefore angle P is 180.0 - 130.0 = 50.0 degrees. This matches choice C.
+Final Answer: C",C,C,True,True
+6,24,119,"As shown in the figure, the line a parallel b, then the degree of angle 2 is ()
+Choices:
+A:150°
+B:130°
+C:100°
+D:50°",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. line a is parallel to line b 2. line c intersects line a and line b 3. angle 1 is 50.0 4. angle 1 is above line a and left of line c 5. angle 2 is above line b and right of line c
+Solution: Since line a is parallel to line b, the angle above line b and left of line c corresponds to angle 1, so it is 50.0 degrees. Angle 2 is above line b and right of line c, forming a straight line pair with that 50.0 degree angle. Therefore angle 2 is 180.0 - 50.0 = 130.0 degrees. This matches choice B.
+Final Answer: B",B,B,True,True
+7,29,144,"As shown in the figure, D is the intersection point of the angular bisector BD and CD of triangle ABC. then angle D = ()
+Choices:
+A:120°
+B:130°
+C:115°
+D:110°",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. triangle ABC 2. angle BAC is 50.0 3. BD is angle bisector of angle ABC 4. CD is angle bisector of angle ACB 5. D is intersection of BD and CD
+Solution: In triangle ABC, the angles add to 180.0. Since angle BAC is 50.0, angle ABC plus angle ACB is 130.0. Because BD bisects angle ABC, angle DBC is half of angle ABC. Because CD bisects angle ACB, angle BCD is half of angle ACB. In triangle BDC, angle DBC plus angle BCD is half of 130.0, which is 65.0. Therefore angle BDC is 180.0 - 65.0 = 115.0. This matches choice C.
+Final Answer: C",C,C,True,True
+8,36,179,"As shown in the figure, passing point C to draw the tangent of circle O. then the degree of angle A is ()
+Choices:
+A:20°
+B:25°
+C:.40°
+D:50°",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. circle O 2. points A B C are on circle O 3. line CD is tangent to circle O at C 4. angle BCD is 50.0
+Solution: By the tangent-chord theorem, the angle between tangent CD and chord CB equals the inscribed angle that subtends chord CB on the opposite arc. Angle BCD is the angle between tangent CD and chord CB, and angle A is the inscribed angle subtending chord CB. Therefore angle A = 50.0 degrees. This matches choice D.
+Final Answer: D",D,A,False,True
+9,37,184,"As shown in the figure, AB parallel CD, AO = PO, then the degree of angle A is ()
+Choices:
+A:25°
+B:35°
+C:15°
+D:50°",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. line AB is parallel to line CD 2. points A O B are collinear in that order 3. points C O P are collinear in that order 4. angle OCD is 50.0 5. AO is equal to PO
+Solution: Since line AB is parallel to line CD and line C O P is a transversal, the angle between OP and OB equals angle OCD, so angle POB is 50.0. Since A O B are collinear, angle AOP and angle POB form a straight angle. Therefore angle AOP = 180.0 - 50.0 = 130.0. In triangle AOP, AO is equal to PO, so the base angles at A and P are equal. The two base angles sum to 180.0 - 130.0 = 50.0, so each is 25.0. Thus angle A is 25.0, which matches choice A.
+Final Answer: A",A,A,True,True
+10,41,204,"then angle 4 is equal to ()
+Choices:
+A:80°
+B:65°
+C:60°
+D:55°",p1,trainingfreegrpo,2,gpt-5.5,,,D,,False
+11,45,224,"As shown in the figure, O is the center of the circle, then the degree of angle AOB is ()
+Choices:
+A:35°
+B:70°
+C:105°
+D:150°",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. O is center of circle 2. points A B C are on circle 3. angle ACB is 35.0
+Solution: Angle ACB is an inscribed angle that intercepts arc AB. Angle AOB is the central angle that intercepts the same arc AB. A central angle is twice the inscribed angle intercepting the same arc. So angle AOB = 2 × 35.0 = 70.0. This matches choice B.
+Final Answer: B",B,B,True,True
+12,48,239,"As shown in the figure, then the degree of angle BAC is ()
+Choices:
+A:50°
+B:80°
+C:100°
+D:130°",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. circle with center O 2. points B A C are on the circle 3. point A is on the minor arc BC 4. angle BOC is 100.0
+Solution: Since O is the center, angle BOC is a central angle, so the minor arc BC measures 100.0 degrees. Point A is on the minor arc BC, so angle BAC intercepts the major arc BC. The major arc BC measures 360.0 - 100.0 = 260.0 degrees. An inscribed angle equals half the measure of its intercepted arc, so angle BAC = 260.0 / 2 = 130.0 degrees. This matches choice D.
+Final Answer: D",D,D,True,True
+13,51,254,"As shown in the figure, triangle ABC congruent  triangle DEF, then the degree of angle COE is ()
+Choices:
+A:40°
+B:60°
+C:70°
+D:100°",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. triangle ABC is congruent to triangle DEF 2. points B E C F are collinear in that order 3. angle ABC is 45.0 4. angle DFE is 65.0 5. lines AC and DE meet at O
+Solution: Since triangle ABC is congruent to triangle DEF, the corresponding angles are equal. From the order ABC congruent to DEF, angle C corresponds to angle F, so angle ACB is 65.0. Also angle E corresponds to angle B, so angle DEF is 45.0. Since B, E, C, and F are collinear, line CB and line EF are the same straight line. At C, line AC makes a 65.0 degree angle with the left direction of the straight line. At E, line DE makes a 45.0 degree angle with the right direction of the straight line. Therefore, the angle between the downward rays OC and OE is 180.0 - 65.0 - 45.0 = 70.0 degrees. So angle COE is 70.0 degrees, which matches choice C.
+Final Answer: C",C,C,True,True
+14,53,264,"As shown in the figure, the straight line a parallel  b, then angle 2 = ()
+Choices:
+A:55°
+B:35°
+C:125°
+D:65°",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. line a is parallel to line b 2. line c intersects line a and line b 3. angle 1 is 55.0 4. angle 1 is above line a and right of line c 5. angle 2 is below line b and left of line c
+Solution: Since line a is parallel to line b and line c is a transversal, the angle above line a and right of line c is equal to the corresponding angle above line b and right of line c. So that corresponding angle is 55.0. At the lower intersection, angle 2 is vertical to that corresponding angle, so angle 2 is also 55.0. This matches choice A.
+Final Answer: A",A,A,True,True
+15,54,269,"Place a ruler and a triangular plate as shown in the figure,then the degree of angle 2 is ()
+Choices:
+A:130°
+B:140°
+C:120°
+D:125°",p1,trainingfreegrpo,2,gpt-5.5,,,A,,False
+16,59,294,"As shown in the figure, AB parallel CD, AD bisects angle BAC, then the degree of angle D is ()
+Choices:
+A:50°
+B:60°
+C:70°
+D:100°",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. line AB is parallel to line CD 2. angle ACD is 80.0 3. AD bisects angle BAC
+Solution: Since AB is parallel to CD, the angle between AC and AB is supplementary to angle ACD. So angle BAC = 180.0 - 80.0 = 100.0. AD bisects angle BAC, so angle BAD = 100.0 / 2 = 50.0. Since AB is parallel to CD, angle BAD and angle ADC are alternate interior angles, so angle D = 50.0. This matches choice A.
+Final Answer: A",A,A,True,True
+17,65,324,"As shown in the figure, angle 1 = angle 2, then angle 3 is equal to ()
+Choices:
+A:120°
+B:130°
+C:145°
+D:150°",p1,trainingfreegrpo,2,gpt-5.5,,,D,,False
+18,73,364,"As shown in the figure, triangle ABC is the inscribed triangle of circle O. then the degree of angle AOC is equal to ()
+Choices:
+A:140°
+B:130°
+C:120°
+D:110°",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. triangle ABC is inscribed in circle O 2. O is the center of the circle 3. angle ABC is 70.0
+Solution: Angle ABC is an inscribed angle that intercepts arc AC. Angle AOC is the central angle that intercepts the same arc AC. A central angle is twice the inscribed angle intercepting the same arc. So angle AOC = 2 × 70.0 = 140.0. This matches choice A.
+Final Answer: A",A,A,True,True
+19,81,404,"As shown in the figure, AE bisects angle DAC, so the degree of angle DAE is ()
+Choices:
+A:45°
+B:20°
+C:30°
+D:25°",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. triangle ABC 2. points B D E C are collinear in that order 3. line AD is perpendicular to line BC 4. angle ABC is 50.0 5. angle BAC is 90.0 6. AE bisects angle DAC
+Solution: Since points B, D, E, C are collinear, angle ABD equals angle ABC, so angle ABD is 50.0. Since AD is perpendicular to BC, angle ADB is 90.0. In triangle ABD, angle BAD = 180.0 - 90.0 - 50.0 = 40.0. Angle BAC is 90.0, so angle DAC = angle BAC - angle BAD = 90.0 - 40.0 = 50.0. Since AE bisects angle DAC, angle DAE = 50.0 ÷ 2 = 25.0. This matches choice D.
+Final Answer: D",D,D,True,True
+20,83,414,"As shown in the figure, then the angle of circumference angle ACB is equal to ().
+Choices:
+A:130°
+B:120°
+C:110°
+D:100°",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. circle with center O 2. points A B C are on the circle 3. angle AOB is 100.0 4. point C is on the minor arc AB
+Solution: Since O is the center, angle AOB is a central angle, so the minor arc AB measures 100.0 degrees. Point C lies on the minor arc AB, so angle ACB intercepts the major arc AB. The major arc AB measures 360.0 - 100.0 = 260.0 degrees. An inscribed angle equals half the measure of its intercepted arc, so angle ACB = 260.0 / 2 = 130.0 degrees. This matches choice A.
+Final Answer: A",A,A,True,True
+21,85,424,"As shown in the figure, the circle O is the circumscribed circle of triangle ABC and the bisector of angle BAC and angle ABC intersects at point I, then the length of DI is ()
+Choices:
+A:4√{3}+2
+B:4√{3}+3
+C:8√{3}+1
+D:8√{3}",p1,trainingfreegrpo,2,gpt-5.5,,,D,,False
+22,89,444,"As shown in the figure, then the degree of angle BAO is ()
+Choices:
+A:50°
+B:55°
+C:60°
+D:65°",p1,trainingfreegrpo,2,gpt-5.5,,,D,,False
+23,102,509,"As shown in the figure, and point C is the midpoint of arc BD, passing point C to draw the perpendicular line EF of AD, then the length of CE is ()
+Choices:
+A:3
+B:\frac{20}{3}
+C:\frac{12}{5}
+D:\frac{16}{5}",p1,trainingfreegrpo,2,gpt-5.5,,,C,,False
+24,105,524,"As shown in the figure, Given that AB = 2 DE, then the degree of angle ABC is ()
+Choices:
+A:32°
+B:24°
+C:16°
+D:48°",p1,trainingfreegrpo,2,gpt-5.5,,,B,,False
+25,111,554,"AD is the angle bisector of angle CAB, and crossing point C is the high line CE on the AD side in triangle ACD, then the degree of angle ECD is ()
+Choices:
+A:63°
+B:45°
+C:27°
+D:18°",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. triangle ABC 2. angle CAB is 90.0 3. angle ABC is 72.0 4. AD bisects angle CAB 5. point D is on CB 6. points A D E are collinear in that order 7. CE is perpendicular to AD
+Solution: Since angle CAB is 90.",D A E,C,False,False
+26,114,569,"As shown in the figure, and the area of the shaded part in the figure is ()
+Choices:
+A:πcm²
+B:\frac{2}{3}πcm²
+C:\frac{1}{2}cm²
+D:\frac{2}{3}cm²",p1,trainingfreegrpo,2,gpt-5.5,,,C,,False
+27,115,574,"then the bottom perimeter of the paper cap is ()
+Choices:
+A:2πcm
+B:3πcm
+C:4πcm
+D:5πcm",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. sector has radius 6 2. sector central angle is 120.0 3. sector is made into a cone Solution: The curved edge of the sector becomes the bottom perimeter of the cone. The length of the curved edge is the arc length of the sector. Arc length = 120.0/360.0 × 2π × 6 = 1/3 × 12π = 4π. So the bottom perimeter of the paper cap is 4π cm, which matches choice C. Final Answer: C",C,C,True,True
+28,116,579,"The area of ​​paper required to make this paper cap is (the seams are ignored) ()
+Choices:
+A:60π
+B:65π
+C:78π
+D:156π",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. cone 2. slant height is 13.0 3. height is 12.0
+Solution: The paper cap is the curved surface of a cone, so the required paper area is the lateral surface area. The lateral surface area is πrl, where r is the base radius and l is the slant height. The height, radius, and slant height form a right triangle. Using the Pythagorean theorem, r² + 12.0² = 13.0², so r² = 169.0 - 144.0 = 25.0, and r = 5.0. Therefore, the required area is π × 5.0 × 13.0 = 65π. This matches choice B.
+Final Answer: B",B,B,True,True
+29,119,594,"As shown in the figure, then the area of ​​this sector cardboard is ()
+Choices:
+A:240πcm^{2}
+B:480πcm^{2}
+C:1200πcm^{2}
+D:2400πcm^{2}",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. sector radius is 24.0 2. sector cardboard forms cone lateral surface 3. cone base radius is 10.0
+Solution: The sector cardboard is rolled to form the lateral surface of the cone. The radius of the sector becomes the slant height of the cone, so the slant height is 24.0. The cone base radius is 10.0. The lateral surface area of a cone is πrl. So the sector area is π × 10.0 × 24.0 = 240π. This matches choice A.
+Final Answer: A",A,A,True,True
+30,121,604,"the handle AP always bisects the angle angle BAC formed by the two ribs in the same plane, and AE = AF, DE = DF, then the area of ​​oil paper required to make such a paper umbrella is (don't remember the seam) ()
+Choices:
+A:48cm^{2}
+B:70πcm^{2}
+C:2400πcm^{2}
+D:2500πcm^{2}",p1,trainingfreegrpo,2,gpt-5.5,,,C,,False
+31,122,609,"As shown in the figure, then the height of the cone is ()
+Choices:
+A:6
+B:8
+C:3√{3}
+D:4√{2}",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. cone 2. slant height is 6.0 3. sector angle is 120.0
+Solution: The cone is made from a circular sector. The radius of the sector is the slant height of the cone, so the slant height is 6.0. The arc length of the sector becomes the circumference of the cone base. The sector angle is 120.0, so the arc length is one third of the full circle with radius 6.0. Thus the arc length is 4π. Set this equal to the base circumference 2πr, giving r = 2.0. The height, radius, and slant height form a right triangle, so h² + 2.0² = 6.0². Therefore h² = 32, so h = 4√2. This matches choice D.
+Final Answer: D",D,D,True,True
+32,125,624,"it is known that， then the radius of the bottom circle of the chimney cap is ()
+Choices:
+A:5cm
+B:12cm
+C:10cm
+D:15cm",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. sector AOB 2. OA is 30.0 cm 3. angle AOB is 120.0 4. arc AB is the bottom circle of the cone
+Solution: The sector is rolled to form the chimney cap, so the arc length of arc AB becomes the circumference of the bottom circle. The radius of the sector is 30.0 cm and the central angle is 120.0 degrees. The arc length is 120.0/360.0 of the full circumference with radius 30.0 cm, so arc AB = 1/3 × 2π × 30.0 = 20π cm. This equals the bottom circle circumference 2πr. So 2πr = 20π, giving r = 10.0 cm. The matching choice is C.
+Final Answer: C",C,C,True,True
+33,131,654,"As shown in the figure, The circle with CD as the diameter intersects AD at point P. Then the length of AB is ()
+Choices:
+A:8
+B:2√{10}
+C:4√{3}
+D:2√{13}",p1,trainingfreegrpo,2,gpt-5.5,,,D,,False
+34,141,704,"then the height of the building is ()
+Choices:
+A:10m
+B:12m
+C:15m
+D:22.5m",p1,trainingfreegrpo,2,gpt-5.5,,,A,,False
+35,142,709,"As shown in the figure: then the length of the distance from E to the ground EF is ()
+Choices:
+A:2
+B:2.2
+C:2.4
+D:2.5",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. AB is perpendicular to BD 2. CD is perpendicular to BD 3. EF is perpendicular to BD 4. length AB is 6 5. length CD is 3 6. lines AD and BC intersect at E 7. points B F D are collinear in that order
+Solution: Let BD have length x. Since AB and CD are both perpendicular to BD, take B at height 0, A at height 6, D at height 0, and C at height 3. Point E lies on both AD and BC. On line AD, the height decreases from 6 to 0 across distance x, so at horizontal position t from B, the height is 6 - 6t/x. On line BC, the height increases from 0 to 3 across distance x, so at horizontal position t from B, the height is 3t/x. At E these heights are equal, so 6 - 6t/x = 3t/x. Then 6 = 9t/x, so t/x = 2/3. The height of E is 3t/x = 3 · 2/3 = 2. Thus EF = 2, which matches choice A.
+Final Answer: A",A,A,True,True
+36,144,719,"The height h of the racket hit is ()
+Choices:
+A:\frac{8}{5}m
+B:\frac{4}{3}m
+C:1m
+D:\frac{8}{15}m",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. a straight dashed line starts at the left ground point 2. the dashed line passes through the top of a vertical segment of 0.8 m 3. the dashed line passes through the top of the vertical segment h 4. the horizontal distance from the left ground point to the 0.8 m segment is 6.0 m 5. the horizontal distance from the 0.8 m segment to the h segment is 4.0 m
+Solution: The dashed line is straight, so the height is proportional to the horizontal distance from the left ground point. At 6.0 m, the height is 0.8 m. The h segment is 6.0 + 4.0 = 10.0 m from the left ground point. Set up the proportion h / 10.0 = 0.8 / 6.0. Then h = 10.0 × 0.8 / 6.0 = 8.0 / 6.0 = 4.0 / 3.0 m. This matches choice B.
+Final Answer: B",B,D,False,True
+37,147,734,"then the height of the flagpole AC is ()
+Choices:
+A:6m
+B:7m
+C:8.5m
+D:9m",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. points E F B C are collinear in that order 2. segment EF is 1.0 3. segment FD is 1.5 4. segment BC is 6.0 5. line AC is perpendicular to line BC 6. line FD is perpendicular to line EF 7. line ED is parallel to line AB Solution: Since FD is perpendicular to EF and AC is perpendicular to BC, both triangles EFD and BCA are right triangles. Since ED is parallel to AB and the bases EF and BC lie on the same straight line, triangle EFD is similar to triangle BCA. Corresponding side ratios are equal, so AC / BC = FD / EF. Substitute the given lengths: AC / 6.0 = 1.5 / 1.0. Thus AC = 6.0 × 1.5 = 9.0. The height of the flagpole is 9m, which matches choice D. Final Answer: D",D,D,True,True
+38,149,744,"As shown in the figure, AC perpendicular  CD, BD perpendicular  CD, then the length of the line segment ED is ()
+Choices:
+A:\frac{20}{3}
+B:\frac{10}{3}
+C:7
+D:\frac{14}{3}",p1,trainingfreegrpo,2,gpt-5.5,,,A,,False
+39,155,774,"As shown in the figure, then the height of the flagpole is ()
+Choices:
+A:6.4m
+B:7m
+C:8m
+D:9m",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. points A C B are collinear in that order 2. AC is 2.0 3. CB is 8.0 4. vertical segment at C is 1.6 5. line from A through the top of the vertical segment at C reaches the top of the flagpole 6. flagpole at B is perpendicular to AB
+Solution: Since A, C, and B are on the same straight ground line, AB = AC + CB = 2.0 + 8.0 = 10.0. The small right triangle with height 1.6 and base AC is similar to the large right triangle with the flagpole height and base AB, because they share the same slanted line of sight and both have vertical heights perpendicular to the ground. So the ratio of height to base is the same: flagpole height / 10.0 = 1.6 / 2.0. Therefore the flagpole height is 10.0 × 1.6 / 2.0 = 8.0. This matches choice C.
+Final Answer: C",C,C,True,True
+40,157,784,"As shown in the figure, then cosB is equal to ()
+Choices:
+A:\frac{3}{5}
+B:\frac{3}{4}
+C:\frac{4}{5}
+D:\frac{4}{3}",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. triangle ABC 2. angle C is 90.0 3. AC is 4 4. BC is 3
+Solution: Since angle C is 90.0, AB is the hypotenuse. By the Pythagorean theorem, AB = sqrt(AC^2 + BC^2) = sqrt(4^2 + 3^2) = 5. For angle B, the adjacent leg is BC and the hypotenuse is AB. Therefore, cosB = BC / AB = 3 / 5. This matches choice A.
+Final Answer: A",A,A,True,True
+41,168,839,"As shown in the figure, then the value of tanα is ()
+Choices:
+A:\frac{2}{3}
+B:\frac{3}{2}
+C:\frac{2√{13}}{13}
+D:\frac{3√{13}}{13}",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. point O is the origin 2. angle alpha is between line OA and the positive x-axis 3. the horizontal distance from O to the vertical line through A is 2.0 4. the vertical distance from the x-axis to A is 3.0
+Solution: The segment OA forms a right triangle with the positive x-axis. For angle alpha, the opposite side is the vertical distance 3.0, and the adjacent side is the horizontal distance 2.0. Therefore, tan alpha = opposite divided by adjacent = 3.0 / 2.0. This matches choice B.
+Final Answer: B",B,B,True,True
+42,173,864,"As shown in the figure, then the degree of angle BAD is ()
+Choices:
+A:50°
+B:40°
+C:25°
+D:35°",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. circle with center O 2. points A B D are on circle 3. angle DOB is 50.0
+Solution: Angle DOB is a central angle that intercepts arc DB. Angle BAD is an inscribed angle that intercepts the same arc DB. An inscribed angle is half the measure of the central angle intercepting the same arc. So angle BAD = 50.0 / 2 = 25.0. This matches choice C.
+Final Answer: C",C,C,True,True
+43,180,899,"As shown in the figure, then the value of AE^ 2 + CE^ 2 is ()
+Choices:
+A:1
+B:2
+C:3
+D:4",p1,trainingfreegrpo,2,gpt-5.5,,,B,,False
+44,182,909,"As shown in the figure, then the maximum value of the distance from point O to vertex A is ()
+Choices:
+A:8
+B:10
+C:8√{2}
+D:10√{2}",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. point A is on ray OX 2. point B is on ray OY 3. angle XOY is 45.0 4. segment AB is 10.0
+Solution: In triangle OAB, angle AOB is 45.0 and AB is fixed at 10.0. For a fixed point A on ray OX, the shortest distance from A to line OY is the perpendicular distance, which equals OA × sin",A B,D,False,False
+45,184,919,"As shown in the figure, CD is tangent to the circle at point D, the length of the line segment CD is ()
+Choices:
+A:1
+B:√{3}
+C:2
+D:2√{3}",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. O is center of circle 2. circle radius is 2 3. points A O B C are collinear in that order 4. points A B D are on circle 5. CD is tangent to circle at D 6. angle OAD is 30.0
+Solution: Since CD is tangent to the circle at D, radius OD is perpendicular to CD. The radius is 2, so OA = OD = 2. In triangle AOD, OA = OD, so it is isosceles. Since angle OAD is 30.0, angle ADO is also 30.0, so angle AOD is 120.0. Points A, O, B, C are collinear, so OC is on the same line as OA. The tangent line CD is perpendicular to OD, so triangle OCD is right at D. The angle between OC and OD is 180.0 - 120.0 = 60.0. Thus triangle OCD is a 30-60-90 right triangle with OD = 2 opposite the 30.0 angle, so CD = 2√3. This matches choice D.
+Final Answer: D",D,D,True,True
+46,189,944,"As shown in the figure, AB, AC, and BD are the tangents of circle O. then the length of BD is ()
+Choices:
+A:1.5
+B:2
+C:2.5
+D:3",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. line AC is tangent to circle O at C 2. line AB is tangent to circle O at P 3. line BD is tangent to circle O at D 4. AC is 3.0 5. AB is 5.0 6. points A P B are collinear in that order
+Solution: From the same external point A, the two tangent segments to the circle are equal. So AP = AC = 3.0. Since AB = 5.0 and points A P B are collinear in that order, BP = AB - AP = 5.0 - 3.0 = 2.0. From the same external point B, the two tangent segments to the circle are equal. So BD = BP = 2.0. This matches choice B.
+Final Answer: B",B,B,True,True
+47,191,954,"As shown in the figure, and the tangent line of circle O passing through point A, then the length of AP is ()
+Choices:
+A:3
+B:\frac{3}{2}
+C:\frac{2}{3}√{3}
+D:\frac{3}{2}√{3}",p1,trainingfreegrpo,2,gpt-5.5,,,D,,False
+48,193,964,"As shown in the figure, PA and PB are tangent to circle O, the tangent EF of circle O intersects PA and PB at points E and F respectively. ",p1,trainingfreegrpo,2,gpt-5.5,,,C,,False
+49,194,969,"Then the outer diameter of the round nut is ()
+Choices:
+A:12cm
+B:24cm
+C:6√{3}cm
+D:12√{3}cm",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. points D A C are collinear in that order 2. AD is 6.0 cm 3. angle BAC is 60.0 4. outer circle is tangent to line DC at D 5. outer circle is tangent to line AB
+Solution: Let the radius of the outer circle be r. Since the circle is tangent to line DC at D, its center is directly above D, so the center is r cm above line DC. The distance from D to A is 6.0 cm. Since angle BAC is 60.0, the angle between AB and the right horizontal ray AC is 60.0. The circle is on the other side of A, so it lies in the 120.0 angle between AB and the left horizontal ray AD. Using the distance from the center to the tangent line AB equals the radius, with horizontal distance 6.0 and vertical distance r, the perpendicular distance to the line AB gives (6√3 + r) / 2 = r. Solving gives r = 6√3. Therefore the outer diameter is 2r = 12√3 cm, which matches choice D.
+Final Answer: D",D,D,True,True
+50,197,984,"As shown in the figure, circle O ia tangent to AB at point C, then S_triangle CDE is ()
+Choices:
+A:6√{5}
+B:6√{3}
+C:6√{2}
+D:6",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. circle O is tangent to line AB at point C 2. points C D E are on circle O 3. segment CD is 6.0 4. segment DE is 4.0 5. angle BCE is 60.0
+Solution: Since line AB is tangent to circle O at C, angle BCE is the angle between the tangent CB and chord CE. By the tangent-chord theorem, this angle equals the inscribed angle that subtends chord CE, so angle CDE is 60.0. In triangle CDE, the two sides around angle CDE are CD = 6.0 and DE = 4.0. The area is 1/2 × CD × DE × sin(angle CDE) = 1/2 × 6 × 4 × sin 60.0 = 12 × √3/2 = 6√3. This matches choice B.
+Final Answer: B",B,B,True,True
+51,201,1004,"The distences between M and the two chords are equal. Find m \angle C A M.
+Choices:
+A:14
+B:28
+C:36
+D:90",p1,trainingfreegrpo,2,gpt-5.5,,,B,,False
+52,202,1009,"In the figure below, lines l and m are parallel. What is the measure of \angle A B C? Express your answer in degrees.
+Choices:
+A:33
+B:38
+C:61
+D:71",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. line l is parallel to line m 2. point A is on line l 3. point C is on line m 4. angle at A formed by line l and AB is 38.0 5. angle at C formed by line m and BC is 33.0
+Solution: Since lines l and m are parallel, they have the same direction. Segment BA makes a 38.0 degree angle with the parallel line direction above the horizontal. Segment BC makes a 33.0 degree angle with the parallel line direction below the horizontal. Therefore, angle ABC is the sum of these two angles: 38.0 + 33.0 = 71.0 degrees. This matches choice D.
+Final Answer: D",D,D,True,True
+53,213,1064,"In \odot P, find the length of \widehat R S. Round to the nearest hundredth.
+Choices:
+A:2.27
+B:3.91
+C:4.54
+D:7.82",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. circle P 2. P is center 3. points R S T are on circle 4. segment PT is 2.0 5. angle RPS is 130.0
+Solution: Since P is the center, segment PT is a radius, so the radius is 2.0. The length of arc RS is found using the central angle RPS, which is 130.0 degrees. Arc length equals the fraction of the circle times the circumference: arc RS = (130.0/360.0)(2π)(2.0). This gives about 4.54. The matching choice is C.
+Final Answer: C",C,C,True,True
+54,222,1109,"For the pair of similar figures, use the given areas to find x.
+Choices:
+A:1
+B:2
+C:8
+D:16",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. left rectangle top side is 4.0 in 2. left rectangle area is 8.0 in^2 3. right rectangle top side is x in 4. right rectangle area is 32.0 in^2
+Solution: The figures are similar, so the ratio of their areas is the square of the ratio of their matching side lengths. The area ratio from the left rectangle to the right rectangle is 32.0 ÷ 8.0 = 4.0. The side length ratio is the square root of 4.0, which is 2.0. The right rectangle top side is therefore 4.0 × 2.0 = 8.0. This matches choice C.
+Final Answer: C",C,C,True,True
+55,224,1119,"In the figure, a regular polygon is within in a circle. Find the measure of a central angle.
+Choices:
+A:30
+B:60
+C:90
+D:120",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. circle with center R 2. regular polygon J K L M N P has 6 sides 3. vertices J K L M N P are on the circle
+Solution: A regular polygon inscribed in a circle divides the circle into equal central angles. The polygon has 6 sides, so there are 6 equal central angles around the center. The sum of all central angles around a point is 360.0 degrees. Therefore, each central angle is 360.0 divided by 6, which is 60.0 degrees. This matches choice B.
+Final Answer: B",B,B,True,True
+56,238,1189,"Find x.
+Choices:
+A:4
+B:4 \sqrt { 2 }
+C:4 \sqrt { 3 }
+D:8",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. left side is 8 2. top left angle is 45.0 3. segment x goes from the bottom left vertex to the top slanted side 4. segment x is perpendicular to the top slanted side
+Solution: Name the top left vertex A, the bottom left vertex B, and the foot of segment x on the top slanted side D. Since segment x is perpendicular to the top slanted side, triangle ABD is a right triangle. The left side AB is 8, so AB is the hypotenuse of this right triangle. The angle at A is 45.0, and x is opposite this angle. Using sine, sin 45.0 = x / 8. Since sin 45.0 = √2 / 2, x = 8(√2 / 2) = 4√2. This matches choice B.
+Final Answer: B",B,B,True,True
+57,242,1209,"Find m \angle W.
+Choices:
+A:38
+B:38
+C:76
+D:152",p1,trainingfreegrpo,2,gpt-5.5,,,C,,False
+58,245,1224,"In rhombus F G H J, Find x.
+Choices:
+A:2.75
+B:3
+C:5.5
+D:9",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. rhombus FGHJ 2. side GH is x+9 3. side JH is 5x-2
+Solution: In a rhombus, all sides are equal. So side GH equals side JH. Set x+9 = 5x-2. Subtract x from both sides to get 9 = 4x-2. Add 2 to both sides to get 11 = 4x. Divide by 4 to get x = 2.75. This matches choice A.
+Final Answer: A",A,A,True,True
+59,246,1229,"Find the circumference of the figure. Round to the nearest tenth.
+Choices:
+A:18.6
+B:19.5
+C:37.7
+D:39.0",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. circle 2. diameter of circle is 6.2 cm
+Solution: The pink segment goes across the circle through the center, so it is the diameter. The circumference of a circle is C = πd. Substitute d = 6.2: C = π(6.2) ≈ 19.5. This matches choice B.
+Final Answer: B",B,B,True,True
+60,268,1339,"If \triangle L M N \sim \triangle Q R S, find the perimeter of \triangle L M N.
+Choices:
+A:35
+B:42
+C:63
+D:84",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. triangle LMN 2. triangle QRS 3. LN is 5.0 4. QS is 12.0 5. QR is 35.0 6. RS is 37.0
+Solution: Since triangle LMN is similar to triangle QRS, the corresponding sides are in the same ratio. From the similarity order, LN corresponds to QS. The scale factor from triangle QRS to triangle LMN is 5.0/12.0. The perimeter of triangle QRS is 12.0 + 35.0 + 37.0 = 84.0. So the perimeter of triangle LMN is 84.0 × 5.0/12.0 = 35.0. This matches choice A.
+Final Answer: A",A,A,True,True
+61,283,1414,"Find F G.
+Choices:
+A:24
+B:32
+C:48
+D:65",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. circle with center M 2. points F L G are collinear in that order 3. line ML is perpendicular to line FG 4. FL is 24.0
+Solution: Since M is the center of the circle and ML is perpendicular to chord FG, the perpendicular from the center to the chord bisects the chord. So L is the midpoint of FG, which means FL = LG. Since FL = 24.0, FG = 24.0 + 24.0 = 48.0. The matching choice is C.
+Final Answer: C",C,C,True,True
+62,284,1419,"Find x.
+Choices:
+A:0.5
+B:1
+C:1.5
+D:2",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. three horizontal lines are parallel 2. on the left transversal, the segment between the top line and the middle line is 2x + 3 3. on the left transversal, the segment between the middle line and the bottom line is 6 - x 4. the two left transversal segments are equal
+Solution: The two marked segments on the left transversal are equal, so set their expressions equal: 2x + 3 = 6 - x. Add x to both sides to get 3x + 3 = 6. Subtract 3 from both sides to get 3x = 3. Divide by 3 to get x = 1. The choice matching x = 1 is B.
+Final Answer: B",B,B,True,True
+63,289,1444,"S T \parallel R Q. Find T Q.
+Choices:
+A:5
+B:6
+C:6.5
+D:12.5",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. triangle PRQ 2. point S is on PR 3. point T is on PQ 4. PS is 12.5 5. SR is 5 6. PT is 15 7. line ST is parallel to line RQ
+Solution: Since line ST is parallel to line RQ, triangle PST is similar to triangle PRQ. The matching sides give PS/PR = PT/PQ. Since PS = 12.5 and SR = 5, PR = 12.5 + 5 = 17.5. So 12.5/17.5 = 15/PQ. This simplifies to 5/7 = 15/PQ, so PQ = 21. Since PT = 15, TQ = PQ - PT = 21 - 15 = 6. This matches choice B.
+Final Answer: B",B,B,True,True
+64,292,1459,"Find x to the nearest hundredth.
+Choices:
+A:5.13
+B:5.46
+C:15.96
+D:43.86",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. right triangle 2. vertical side is 15.0 3. angle between vertical side and slanted side is 70.0 4. slanted side is x
+Solution: The slanted side is the hypotenuse of the right triangle. The 15.0 side is adjacent to the 70.0 degree angle. Use cosine: cos(70.0) = adjacent divided by hypotenuse = 15.0 / x. Solve for x: x = 15.0 / cos(70.0). This gives x ≈ 43.86. The matching choice is D.
+Final Answer: D",D,D,True,True
+65,296,1479,"There is an equilateral triangle, find x.
+Choices:
+A:2
+B:5
+C:6
+D:9",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. triangle 2. all three angles are marked equal 3. one side is 2x + 11 4. one side is 6x - 9
+Solution: Since the triangle is equilateral, all its sides are equal. Set the two labeled side lengths equal: 2x + 11 = 6x - 9. Subtract 2x from both sides to get 11 = 4x - 9. Add 9 to both sides to get 20 = 4x. Divide by 4 to get x = 5. This matches choice B.
+Final Answer: B",B,B,True,True
+66,298,1489,"Find J K.
+Choices:
+A:12.6
+B:14.6
+C:20.6
+D:30.6",p1,trainingfreegrpo,2,gpt-5.5,Information: 1.,INFORMATION: 1.,A,False,False
+67,306,1529,"Express the ratio of \cos X as a decimal to the nearest hundredth.
+Choices:
+A:0.28
+B:0.29
+C:0.96
+D:3.43",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. triangle VWX 2. angle W is 90.0 3. VW is 72 4. WX is 21 5. VX is 75
+Solution: In right triangle VWX, cos X is the ratio of the side adjacent to angle X over the hypotenuse. The side adjacent to angle X is WX, which is 21. The hypotenuse is VX, which is 75. So cos X = 21 / 75 = 0.28. This matches choice A.
+Final Answer: A",A,A,True,True
+68,312,1559,"Find the measure of \angle 2.
+Choices:
+A:64
+B:68
+C:72
+D:76",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. angle 36.0 is in the left triangle 2. angle 1 is in the left triangle 3. angle 2 is in the left triangle 4. angle 1 and angle 104.0 are adjacent on a straight line
+Solution: Since angle 1 and angle 104.0 are adjacent on a straight line, they are supplementary. So angle 1 = 180.0 - 104.0 = 76.0. In the left triangle, the angles are 36.0, 76.0, and angle 2. The angles of a triangle add to 180.0, so angle 2 = 180.0 - 36.0 - 76.0 = 68.0. This matches choice B.
+Final Answer: B",B,B,True,True
+69,313,1564,"Find the area of the figure. Round to the nearest tenth.
+Choices:
+A:19.5
+B:30.2
+C:60.4
+D:120.8",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. the whole circle is shaded 2. diameter is 6.2 cm
+Solution: The area of a circle is found with A = pi r^2. The diameter is 6.2 cm, so the radius is half of that, which is 3.1 cm. Then A = pi(3.1)^2 = pi(9.61) ≈ 30.2. The matching choice is B.
+Final Answer: B",B,B,True,True
+70,319,1594,"Find the area of the green figure.
+Choices:
+A:9
+B:18
+C:72
+D:144",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. blue diamond area is 36.0 yd2 2. blue diamond vertical diagonal is 8.0 yd 3. green diamond vertical diagonal is 4.0 yd 4. blue diamond and green diamond have the same shape
+Solution: The green diamond is similar to the blue diamond. The scale factor from the blue diamond to the green diamond is the ratio of their vertical diagonals: 4.0 ÷ 8.0 = 0.5. Areas scale by the square of the scale factor, so the green area is 36.0 × 0.5² = 36.0 × 0.25 = 9.0. This matches choice A.
+Final Answer: A",A,A,True,True
+71,320,1599,"The figure shows a quadrilateral ABCD, find A B.
+Choices:
+A:3
+B:5
+C:7
+D:9",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. quadrilateral ABCD 2. point S is on AC 3. point T is on BD 4. S is midpoint of AC 5. T is midpoint of BD 6. line AB is parallel to line ST 7. line ST is parallel to line CD 8. AB is x+4 9. ST is 9.0 10. CD is 3x+2
+Solution: Since S and T are the midpoints of the legs of the trapezoid, ST is the midsegment. The length of a trapezoid midsegment equals the average of the two bases, so ST = (AB + CD) / 2. Substitute the given expressions: 9 = ((x + 4) + (3x + 2)) / 2. Then 18 = 4x + 6, so 4x = 12 and x = 3. Now AB = x + 4 = 3 + 4 = 7. The matching choice is C.
+Final Answer: C",C,C,True,True
+72,322,1609,"NQ is the angular bisector of angle MNP. Find Q M.
+Choices:
+A:4
+B:8
+C:12
+D:16",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. MQ is perpendicular to MN 2. QP is perpendicular to NP 3. MQ is 2x+2 4. QP is 4x-8
+Solution: Since NQ is the angle bisector of angle MNP, any point on NQ is the same perpendicular distance from the two sides of the angle. The perpendicular distances from Q to the sides are MQ and QP, so MQ = QP. Set 2x + 2 = 4x - 8. Subtract 2x from both sides to get 2 = 2x - 8. Add 8 to both sides to get 10 = 2x, so x = 5. Then QM = 2x + 2 = 2(5) + 2 = 12. This matches choice C.
+Final Answer: C",C,C,True,True
+73,449,2244,"What is the value of $\sec \theta$ ?
+Choices:
+A:$\frac{1}{x}$
+B:$x$
+C:$y$
+D:$\frac{1}{y}$",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. circle is centered at origin with radius 1.0 2. point P is on the circle 3. point P has coordinates x y 4. angle theta is between positive x axis and segment from origin to P
+Solution: Since P is on the unit circle, the x-coordinate of P equals cos theta. So cos theta = x. Secant is the reciprocal of cosine, so sec theta = 1/x. This matches choice A.
+Final Answer: A",A,A,True,True
+74,479,2394,"Determine if this relation is a one-to-one function.
+Choices:
+A:This is a one-to-one function
+B:This is not a one-to-one function",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. graph has one curve 2. curve rises from left to right
+Solution: The graph passes the vertical line test because each x-value has only one y-value, so it is a function. The graph also passes the horizontal line test because the curve rises from left to right and no y-value is repeated. Therefore, the relation is a one-to-one function.
+Final Answer: A",A,A,True,True
+75,498,2489,"Determine if this relation is a function.
+Choices:
+A.This is a function
+B.This is not a function",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. graph is one continuous curve 2. no vertical line crosses the curve more than once
+Solution: A relation is a function if every x-value has exactly one y-value. Using the vertical line test, the graph passes because no vertical line intersects the curve more than once. Therefore, the relation is a function.
+Final Answer: A",A,A,True,True
+76,507,2534,"Which of the following could be the equation of the graphed line?
+Choices:
+A.$3 x-8 y=24$
+B.$3 x-8 y=-24$
+C.$3 x+8 y=24$
+D.$3 x+8 y=-24$",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. graphed line crosses y-axis at 3.0 2. graphed line crosses x-axis at -8.0
+Solution: The graph shows a line with positive slope and a y-intercept of 3.0. Check the choices in slope-intercept form. Choice A gives y = 3/8 x - 3, so its y-intercept is -3. Choice B gives y = 3/8 x + 3, so its y-intercept is 3 and its slope is positive. Choice C gives y = -3/8 x + 3, so its slope is negative. Choice D gives y = -3/8 x - 3, so its slope is negative and its y-intercept is -3. The only equation matching the graph is choice B.
+Final Answer: B",B,B,True,True
+77,516,2579,"What can we say about the $y$-value of every point on the graph?
+Choices:
+A.The $y$-value of most points of the graph is greater than 1.
+B.The $y$-value of every point on the graph is positive.
+C.The $y$-value of every point on the graph is an integer.
+D.The $y$-value of most points on the graph is positive, and the $y$-value at one point is 0.",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. graph is labeled y = 4^x 2. graph stays above x-axis
+Solution: The graph shown is the exponential function y = 4^x. An exponential function with positive base has positive y-values for every x-value. The graph also stays above the x-axis, so it never has y = 0 or a negative y-value. Therefore, the true statement is that the y-value of every point on the graph is positive.
+Final Answer: B",B,B,True,True
+78,546,2729,"A fly is standing on a bike wheel in motion. The vertical distance between the fly and the ground, in centimeters, is modeled by $H(t)$ where $t$ is the time in seconds.  What is the meaning of the highlighted segment?
+Choices:
+A:The wheel completes a single cycle in 4 seconds.
+B:The height of the wheel's center is 4 centimeters.
+C:The radius of the wheel is 4 centimeters.
+D:The bike's speed is 4 centimeters per second.",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. graph of H(t) against t 2. highlighted segment goes from t=1.0 to t=5.0 3. highlighted segment endpoints are consecutive highest points of H(t) 4. H is 50.0 at both endpoints
+Solution: The highlighted segment connects two consecutive highest points on the height graph. The time from one highest point to the next highest point is one full cycle of the wheel’s motion. The segment runs from t=1.0 to t=5.0, so the time for one complete cycle is 4 seconds. Therefore, the highlighted segment means the wheel completes a single cycle in 4 seconds.
+Final Answer: A",A,A,True,True
+79,548,2739,"Emile is observing a wind turbine. The vertical distance between the ground and the tip of one of the turbine's blades, in meters, is modeled by $H(t)$ where $t$ is the time in seconds. $H$ is a sinusoidal function that oscillates with an amplitude of 10, a period of 50 units, and a vertical shift of 35 units. What is the meaning of the highlighted segment?
+Choices:
+A:The turbine's center is 35 meters above the ground.
+B:The turbine completes a single cycle in 35 seconds.
+C:The length of the blade is 35 meters.
+D:The turbine has 35 blades.",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. graph of H versus t 2. highlighted segment is a horizontal dashed line at y=35 3. curve H oscillates above and below the dashed line
+Solution: The highlighted dashed line is the midline of the sinusoidal graph. For a sinusoidal height model of a turbine blade tip, the midline represents the vertical shift. The vertical shift is the height of the turbine's center above the ground. Since the dashed line is at 35 meters, it means the turbine's center is 35 meters above the ground. This matches choice A.
+Final Answer: A",A,A,True,True
+80,558,2789,"What is the domain of h?
+Choices:
+A:-5 \leq x \leq 7
+B:-5 \leq x \leq 4
+C:-5 \leq x \leq 5
+D:-5 \leq x \leq 6",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. graph h has a filled point at x -5 2. graph h has a filled point at x 5 3. graph h is drawn from x -5 to x 5
+Solution: The domain is the set of x-values where the graph exists. The graph starts at the filled point with x = -5 and ends at the filled point with x = 5. Because both endpoints are filled, both -5 and 5 are included. Therefore the domain is -5 ≤ x ≤ 5, which matches choice C.
+Final Answer: C",C,C,True,True
+81,567,2834,"f(x)=4x^2-108. Do the functions have the same concavity, f(x) and g(x)?
+Choices:
+A:Yes, $f$ and $g$ are both concave down.
+B:Yes, $f$ and $g$ are both concave up.
+C:No, $f$ is concave up and $g$ is concave down.
+D:No, $f$ is concave down and $g$ is concave up.",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. graph is y = g(x) 2. graph y = g(x) opens downward
+Solution: The function f(x)=4x^2-108 is a quadratic with positive leading coefficient 4, so f is concave up. From the graph, g(x) opens downward, so g is concave down. Therefore, the functions do not have the same concavity. The matching choice is C.
+Final Answer: C",C,C,True,True
+82,575,2874,"g(x) is shown in the figure, f(x)=x^2+4x. How many roots do the functions have in common?
+Choices:
+A:$f$ and $g$ share the same root(s).
+B:$f$ and $g$ share one root in common but each have another root that is not shared.
+C:$f$ and $g$ share no roots in common.",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. graph of y=g(x) 2. g(x) crosses the x-axis at x=-3.0 3. g(x) crosses the x-axis at x=4.0
+Solution: The roots of g(x) are the x-values where its graph crosses the x-axis, so the roots of g(x) are -3.0 and 4.0. The function f(x)=x^2+4x can be factored as f(x)=x(x+4). Therefore, the roots of f(x) are 0.0 and -4.0. Comparing the roots, f(x) has roots 0.0 and -4.0, while g(x) has roots -3.0 and 4.0. They have no roots in common.
+Final Answer: C",C,C,True,True
+83,585,2924,"Do the following graph have inverse functions?
+Choices:
+A:Yes
+B:No",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. graph is an increasing curve Solution: A graph has an inverse function if it passes the horizontal line test. Since the curve is increasing, any horizontal line would touch it at only one point. Therefore, the graph has an inverse function. Final Answer: A",A,A,True,True
+84,587,2934,"Do the following graph have inverse functions?
+Choices:
+A:Yes
+B:No",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. horizontal line y = 0 intersects the graph at three points
+Solution: A graph has an inverse function only if it is one-to-one. This means every horizontal line must intersect the graph at most one time. The horizontal line y = 0 intersects the graph at three points, so the graph fails the horizontal line test. Therefore, it does not have an inverse function.
+Final Answer: B",B,B,True,True
+85,589,2944,"$g(x)$ is a transformation of $f(x)$.
+
+What sort of transformation is $g(x)$ of $f(x)$ ?
+Choices:
+A:Vertical dilation
+B:Vertical translation
+C:Reflection
+D:Horizontal translation",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. gray curve is f(x)=ln x 2. black curve is g(x) 3. black curve and gray curve have the same x-intercept 4. black curve is above gray curve for x values greater than the x-intercept 5. black curve is below gray curve for x values between the y-axis and the x-intercept
+Solution: The two curves have the same x-intercept, so the graph was not shifted horizontally or vertically. The black graph keeps the same general logarithmic shape and same intercept, but its y-values are farther from the x-axis than the gray graph. That means the outputs of f(x) were multiplied by a constant greater than 1. This is a vertical dilation.
+Final Answer: A",A,A,True,True
+86,607,3034,"What does the graph tell you?
+Choices:
+A:The cost of a call increases by $\$ 0.90$ for each additional minute
+B:Each additional dollar will buy an additional 0.9 minutes of call time
+C:The cost of a call decreases by $\$ 0.90$ for each additional minute
+D:Each additional dollar will buy 0.9 minutes less of call time than the previous dollar",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. horizontal axis is call length minutes 2. vertical axis is call cost 3. line has a point at 10 minutes and 10 dollars 4. line has a point at 20 minutes and 19 dollars
+Solution: The graph shows call cost on the vertical axis and call length in minutes on the horizontal axis. Using the two marked points, the change in cost is 19 - 10 = 9 dollars. The change in time is 20 - 10 = 10 minutes. The rate of change is 9 / 10 = 0.90 dollars per minute. Since the line goes upward, the cost increases by $0.90 for each additional minute. This matches choice A.
+Final Answer: A",A,A,True,True
+87,615,3074,"The graph shows Jimmy's speed while he is competing in a bike race. Which situation corresponds to the graph?
+Choices:
+A:Jimmy starts off by increasing his pace gradually and then stops as he trips over a stick,but then recovers and is able to increase his speed until the end of the race
+B:Jimmy starts off at a constant speed and then increases his speed at a steady rate
+C:Jimmy starts off by increasing his pace gradually and then maintains a constant speed
+D:Jimmy hits his maximum speed about halfway through the race",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. vertical axis is Speed 2. horizontal axis is Time 3. graph starts at speed 0.0 4. graph first rises as time increases 5. graph drops to speed 0.0 6. graph rises again as time increases 7. graph continues rising more slowly to the end
+Solution: The graph begins at speed 0.0 and rises, so Jimmy starts by increasing his speed. Then the graph drops down to speed 0.0, which means Jimmy stops. After that, the graph rises again and keeps increasing until the end of the race. This matches the situation where Jimmy increases his pace, stops after tripping, then recovers and increases his speed until the end.
+Final Answer: A",A,A,True,True
+88,618,3089,"Consider the graph shown.
+
+Which of the following relationships could be represented by the given graph?
+Choices:
+A:The number of people $(y)$ attending a parent/teacher conference when there are $x$ parents, each bringing 2 children.
+B:The number of layers $(y)$ resulting from a rectangular piece of paper being folded in half $x$ times.
+C:The number of handshakes $(y)$ made by $x$ people in a room if every person shakes hands with every other person.",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. graph of y against x 2. curve passes through (0.0,1.0) 3. curve passes through (1.0,2.0) 4. curve passes through (2.0,4.0) 5. curve passes through (3.0,8.0)
+Solution: The graph shows that when x increases by 1.0, y doubles: 1.0, 2.0, 4.0, 8.0. This is an exponential relationship of the form y = 2^x. Choice A is linear because each parent brings 2 children, so the total number of people would increase by the same amount each time. Choice C is quadratic because the number of handshakes grows by adding more and more new handshakes for each new person. Choice B matches the graph because folding paper in half doubles the number of layers each time.
+Final Answer: B",B,B,True,True
+89,621,3104,"Consider the graph shown.
+
+
+Which of the following relationships could be represented by the given graph?
+Choices:
+A:The number of handshakes, y, made by x people in a room if every person shakes hands with every other person.
+B:The number of layers, y, resulting from a rectangular piece of paper being folded in half x times.
+C:The number of people, y, attending a parent/teacher conference when there are x parents who each bring 2 children.",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. graph of y versus x 2. curve passes through (0.0, 1.0) 3. curve passes through (1.0, 2.0) 4. curve passes through (2.0, 4.0) 5. curve passes through (3.0, 8.0)
+Solution: The graph shows that when x increases by 1, y doubles: 1, 2, 4, 8. This is an exponential relationship of the form y = 2^x. Folding a rectangular piece of paper in half x times doubles the number of layers each time, so it matches the graph. The handshake relationship is quadratic, and the parent/teacher conference relationship is linear, so they do not match.
+Final Answer: B",B,B,True,True
+90,752,3759,"The figure above shows a triangular prism. If the volume of the prism is $\frac{81}{4}$, what is the value of $x$ ?
+Choices:
+A:3
+B:4
+C:5
+D:6",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. triangular prism 2. each side of triangular base is x 3. prism length is sqrt(3)x Solution: The volume of a triangular prism is the area of the triangular base times the prism length. The triangular base is an equilateral triangle with side length x, so its area is sqrt(3)x^2/4. The prism length is sqrt(3)x. So the volume is (sqrt(3)x^2/4)(sqrt(3)x) = 3x^3/4. The volume is given as 81/4, so 3x^3/4 = 81/4. Multiply both sides by 4 to get 3x^3 = 81. Divide by 3 to get x^3 = 27. Therefore x = 3. Final Answer: A",A,A,True,True
+91,753,3764,"In the figure shown above, if all the water in the rectangular container is poured into the cylinder, the water level rises from $h$ inches to $(h+x)$ inches. Which of the following is the best approximation of the value of $x$ ?
+Choices:
+A:3
+B:3.4
+C:3.8
+D:4.2",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. cylinder radius is 3.0 2. rectangular container length is 6.0 3. rectangular container width is 5.0 4. rectangular container water height is 4.0 5. cylinder water level rises by x
+Solution: The water poured into the cylinder has the same volume as the water in the rectangular container. The rectangular container water volume is length times width times height: 6.0 × 5.0 × 4.0 = 120.0 cubic inches. The rise in the cylinder forms a cylindrical volume with radius 3.0 and height x. Its volume is π × 3.0² × x = 9πx. Set the volumes equal: 9πx = 120.0. Then x = 120.0 ÷ 9π, which is about 4.24. The closest choice is 4.2.
+Final Answer: D",D,D,True,True
+92,761,3804,"In the triangle above, which of the following must be true?
+Choices:
+A.p=r
+B.p<r
+C.p>r
+D.p=4
+E.p>4
+",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. triangle MNQ 2. MN is 4 3. NQ is 4 + p 4. MQ is 4 + r 5. angle M is 80.0 6. angle Q is 30.0
+Solution: In a triangle, the larger angle is opposite the longer side. Side NQ is opposite angle M, so side NQ is opposite 80.0 degrees. Side MQ is opposite angle N. The third angle is 180.0 - 80.0 - 30.0 = 70.0 degrees, so side MQ is opposite 70.0 degrees. Since 80.0 degrees is greater than 70.0 degrees, NQ is greater than MQ. Therefore, 4 + p > 4 + r. Subtracting 4 from both sides gives p > r. This matches choice C.
+Final Answer: C",C,C,True,True
+93,763,3814,"In the figure above, the radii of four circles are 1, 2, 3, and 4, respectively. What is the ratio of the area of the small shaded ring to the area of the large shaded ring?
+Choices:
+A.1:2
+B.1:4
+C.3:5
+D.3:7
+E.5:7
+",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. four concentric circles 2. radii are 1.0, 2.0, 3.0, and 4.0 3. small shaded ring is between radius 1.0 circle and radius 2.0 circle 4. large shaded ring is between radius 3.0 circle and radius 4.0 circle
+Solution: The area of a ring is the area of the outer circle minus the area of the inner circle. The small shaded ring has outer radius 2.0 and inner radius 1.0, so its area is π(2.0² - 1.0²) = π(4.0 - 1.0) = 3π. The large shaded ring has outer radius 4.0 and inner radius 3.0, so its area is π(4.0² - 3.0²) = π(16.0 - 9.0) = 7π. The ratio of the small shaded ring to the large shaded ring is 3π:7π = 3:7.
+Final Answer: D",D,D,True,True
+94,768,3839,"In rectangle ABCD above, the area of the shaded region is given by \\pi*l*w/4. If the area of the shaded region is 7*\\pi, what is the total area, to the nearest whole number, of the unshaded regions of rectangle ABCD ?
+Choices:
+A.4
+B.6
+C.8
+D.9
+E.10
+",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. rectangle ABCD 2. side BC is l 3. side CD is w 4. shaded region is inside rectangle ABCD
+Solution: The area of rectangle ABCD is l*w. The shaded area is given as pi*l*w/4. Since the shaded area is 7*pi, we have pi*l*w/4 = 7*pi. Dividing by pi gives l*w/4 = 7, so l*w = 28. Thus, the rectangle area is 28. The unshaded area is the rectangle area minus the shaded area: 28 - 7*pi. Using pi about 3.14, this is 28 - 21.98 = 6.02, which rounds to 6. The matching choice is B.
+Final Answer: B",B,B,True,True
+95,769,3844,"What fraction of the area of the figure is shaded?
+Choices:
+A.3/8
+B.1/4
+C.1/8
+D.1/10
+E.1/16
+",p1,trainingfreegrpo,2,gpt-5.5,,,B,,False
+96,774,3869,"In the figure above, what is the value of x?
+Choices:
+A.72
+B.70
+C.68
+D.66
+E.64
+",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. outer triangle has top angle x.0 2. inner triangle has top angle 126.0 3. left outer base angle is split into b.0 and a.0 4. right outer base angle is split into a.0 and b.0 5. the inner triangle has base angles a.0 and b.0
+Solution: In the inner triangle, the three angles are a, b, and 126.0 degrees. Their sum is 180.0 degrees, so a + b + 126.0 = 180.0. Therefore, a + b = 54.0. In the outer triangle, the left base angle is a + b, and the right base angle is a + b. The angle sum of the outer triangle gives x + (a + b) + (a + b) = 180.0. Substituting a + b = 54.0 gives x + 54.0 + 54.0 = 180.0, so x = 72.0. This matches choice A.
+Final Answer: A",A,A,True,True
+97,779,3894,"In the figure above, what is the value of x?
+Choices:
+A.45
+B.50
+C.65
+D.75
+E.It cannot be determined from the information given
+",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. points C P D are collinear in that order 2. points A P B are collinear in that order 3. points E P F are collinear in that order 4. line CE is perpendicular to line EF 5. angle PBF is 50.0 6. angle BFP is 60.0 7. angle PAD is 50.0 8. angle PDA is 45.0 9. x is angle ECP Solution: In triangle BPF, the angles at B and F are 50.0 and 60.0, so angle BPF is 180.0 - 50.0 - 60.0 = 70.0. In triangle APD, the angles at A and D are 50.0 and 45.0, so angle APD is 180.0 - 50.0 - 45.0 = 85.0. Since lines AB and CD intersect at P, angle BPC is vertical to angle APD, so angle BPC is 85.0. Since E, P, and F are collinear, the angles above line EF from PE to PF add to 180.0. Thus angle EPC + angle CPB + angle BPF = 180.0, so angle EPC + 85.0 + 70.0 = 180.0. Therefore angle EPC is 25.0. In triangle CEP, angle CEP is 90.0, angle EPC is 25.0, and x is angle ECP. So x = 180.0 - 90.0 - 25.0 = 65.0. This matches choice C. Final Answer: C",C,C,True,True
+98,783,3914,"What is the value of z?
+Choices:
+A.60
+B.70
+C.80
+D.90
+E.100
+",p1,trainingfreegrpo,2,gpt-5.5,"Information: 1. concave quadrilateral 2. left angle y is 30.0 3. top right angle x is 20.0 4. bottom right angle x is 20.0 5. marked small angle at concave vertex is z Solution: In the concave quadrilateral, the angle marked z is the small exterior angle at the concave vertex. Therefore the interior angle at that vertex is 360.0 - z. The sum of the interior angles of any quadrilateral is 360.0. So the interior angles give 30.0 + 20.0 + 20.0 + (360.0 - z) = 360.0. Simplifying gives 70.0 + 360.0 - z = 360.0, so z = 70.0. This matches choice B. Final Answer: B",B,B,True,True
+99,785,3924,"In the figure above, a shaded polygon which has equal sides and equal angles is partially covered with a sheet of blank paper. If x + y = 80, how many sides does the polygon have?
+Choices:
+A.Ten
+B.Nine
+C.Eight
+D.Seven
+E.Six
+",p1,trainingfreegrpo,2,gpt-5.5,,,B,,False

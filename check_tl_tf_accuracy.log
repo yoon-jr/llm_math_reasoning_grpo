@@ -1,0 +1,40 @@
+Dataset: text_lite
+Algorithm: trainingfreegrpo
+------------------------------------------------------------
+P1 Round 0 평가 완료
+  CSV: outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_0.csv
+  Total: 100
+  Correct: 75
+  Missing model_output: 24
+  Accuracy: 0.750000
+  Answered Accuracy: 0.986842
+
+P1 Round 1 평가 완료
+  CSV: outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_1.csv
+  Total: 100
+  Correct: 82
+  Missing model_output: 15
+  Accuracy: 0.820000
+  Answered Accuracy: 0.964706
+
+P1 Round 2 평가 완료
+  CSV: outputs/text_lite/p1/trainingfreegrpo/output_gpt_multichoice_round_2.csv
+  Total: 100
+  Correct: 85
+  Missing model_output: 14
+  Accuracy: 0.850000
+  Answered Accuracy: 0.988372
+
+------------------------------------------------------------
+성능 평가 완료
+요약 CSV 저장 위치: evaluation_results/text_lite/accuracy_by_prompt_all_rounds.csv
+그래프 저장 위치: evaluation_results/text_lite/accuracy_by_prompt_all_rounds.png
+
+  Prompt  Round  Total  ...  Missing model_output  Accuracy  Answered Accuracy
+0     P1      0    100  ...                    24      0.75           0.986842
+1     P1      1    100  ...                    15      0.82           0.964706
+2     P1      2    100  ...                    14      0.85           0.988372
+
+[3 rows x 7 columns]
+Answered Accuracy 그래프 저장 완료
+저장 위치: evaluation_results/text_lite/answered_accuracy_by_prompt_all_rounds.png
